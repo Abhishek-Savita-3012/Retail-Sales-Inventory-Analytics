@@ -1,0 +1,501 @@
+InventoryID,ProductID,Warehouse,StockAvailable,ReorderLevel,LastRestocked,Supplier
+1,1,Bengaluru,148,64,2026-07-12,Bali-Keer
+2,2,Hyderabad,66,73,2026-06-03,Andra-D’Alia
+3,3,Mumbai,320,31,2026-06-29,Banerjee-Sandal
+4,4,Mumbai,38,55,2026-07-09,"Dewan, Chand and Rajagopalan"
+5,5,Hyderabad,391,25,2026-07-05,Bora Group
+6,6,Bengaluru,346,69,2026-05-27,Purohit Ltd
+7,7,Bengaluru,152,44,2026-05-13,Andra Group
+8,8,Delhi,224,27,2026-05-13,Dhar-Dayal
+9,9,Hyderabad,252,53,2026-05-25,Saran LLC
+10,10,Bengaluru,93,46,2026-05-05,"Balan, Shankar and Hegde"
+11,11,Hyderabad,23,78,2026-06-02,Varghese LLC
+12,12,Mumbai,216,20,2026-06-02,Sood-Tella
+13,13,Hyderabad,318,24,2026-05-18,"Tella, Jha and Sachdev"
+14,14,Delhi,312,23,2026-05-15,Bassi Inc
+15,15,Delhi,142,25,2026-05-25,"Chacko, Uppal and Rana"
+16,16,Bengaluru,106,56,2026-06-10,"Balakrishnan, Murty and Sachdev"
+17,17,Mumbai,497,36,2026-06-19,Sahni-Dhar
+18,18,Delhi,475,32,2026-06-30,Chana Group
+19,19,Delhi,199,21,2026-07-06,Naidu Inc
+20,20,Bengaluru,144,46,2026-05-22,Sandal-Modi
+21,21,Delhi,434,47,2026-05-14,Pai-Mani
+22,22,Mumbai,274,50,2026-07-15,Ramaswamy-Kunda
+23,23,Bengaluru,160,59,2026-07-09,Borde Ltd
+24,24,Bengaluru,261,52,2026-04-28,Kala-Batra
+25,25,Mumbai,100,58,2026-06-13,Hora LLC
+26,26,Hyderabad,124,29,2026-05-28,"Bhatti, Keer and Mukhopadhyay"
+27,27,Hyderabad,33,54,2026-07-11,Contractor Inc
+28,28,Hyderabad,47,30,2026-05-26,Bala Inc
+29,29,Hyderabad,23,57,2026-06-10,Andra Ltd
+30,30,Mumbai,459,33,2026-06-22,Choudhry-Bera
+31,31,Delhi,385,75,2026-07-06,Agrawal-Dubey
+32,32,Bengaluru,417,68,2026-05-16,Wable-Munshi
+33,33,Mumbai,225,67,2026-07-06,Mittal-Handa
+34,34,Hyderabad,105,58,2026-06-12,Oommen-Gade
+35,35,Bengaluru,462,54,2026-06-02,Chopra Ltd
+36,36,Mumbai,201,22,2026-06-24,"Brahmbhatt, Acharya and Kata"
+37,37,Mumbai,241,25,2026-07-17,"Viswanathan, Bahri and Bava"
+38,38,Bengaluru,129,41,2026-06-23,Chatterjee PLC
+39,39,Bengaluru,215,52,2026-06-08,Murty-Vig
+40,40,Mumbai,218,55,2026-07-12,Kota Ltd
+41,41,Hyderabad,196,67,2026-04-26,Baral Ltd
+42,42,Delhi,413,34,2026-05-03,"Divan, Oza and Gola"
+43,43,Bengaluru,45,68,2026-06-20,Lad-Mangat
+44,44,Mumbai,38,22,2026-06-01,Choudhury-Thakur
+45,45,Delhi,168,33,2026-05-26,Swamy-Kapoor
+46,46,Delhi,53,27,2026-06-19,Bala LLC
+47,47,Mumbai,348,55,2026-06-30,"Karnik, Dar and Krishna"
+48,48,Bengaluru,222,79,2026-06-28,Bhardwaj-Modi
+49,49,Bengaluru,223,70,2026-05-05,Nori Group
+50,50,Hyderabad,472,31,2026-06-12,"Biswas, Prasad and Batra"
+51,51,Mumbai,216,58,2026-05-08,Gaba Ltd
+52,52,Bengaluru,249,26,2026-07-07,Sachdeva Ltd
+53,53,Hyderabad,454,50,2026-05-04,Chad Group
+54,54,Bengaluru,187,71,2026-07-17,"Rajagopalan, Seth and Narula"
+55,55,Delhi,316,43,2026-05-13,"Lala, Krishnamurthy and Sastry"
+56,56,Hyderabad,86,28,2026-05-27,Chopra-Narula
+57,57,Delhi,54,65,2026-05-12,"Chacko, Tank and Grewal"
+58,58,Mumbai,498,59,2026-05-13,Butala-Maharaj
+59,59,Delhi,100,20,2026-06-01,Kari-Wali
+60,60,Delhi,13,60,2026-06-16,Babu Ltd
+61,61,Mumbai,115,20,2026-05-14,"Garde, Guha and Rastogi"
+62,62,Delhi,223,53,2026-06-11,Loyal Inc
+63,63,Delhi,173,30,2026-05-18,"Tella, Bora and Samra"
+64,64,Mumbai,316,79,2026-07-15,Vala PLC
+65,65,Delhi,298,32,2026-05-14,Barad and Sons
+66,66,Mumbai,435,55,2026-07-09,"Nagy, Sha and Pillay"
+67,67,Mumbai,223,23,2026-06-17,Parsa-Dey
+68,68,Mumbai,308,60,2026-06-03,Kapadia-Mane
+69,69,Delhi,221,79,2026-06-14,Sengupta-Bajaj
+70,70,Mumbai,67,37,2026-05-13,Sridhar Group
+71,71,Delhi,26,46,2026-06-08,Mangat-Mohanty
+72,72,Delhi,370,80,2026-06-07,Dhingra-Tailor
+73,73,Bengaluru,400,50,2026-05-02,Kadakia Inc
+74,74,Mumbai,148,78,2026-05-11,Chana-Nanda
+75,75,Delhi,53,38,2026-07-09,"Mitra, Kanda and Chopra"
+76,76,Hyderabad,385,72,2026-05-03,Vala-Barad
+77,77,Hyderabad,45,69,2026-06-14,Memon-Chowdhury
+78,78,Hyderabad,471,72,2026-04-28,Bobal-Hora
+79,79,Delhi,419,50,2026-05-21,Rajagopalan-Balay
+80,80,Hyderabad,257,65,2026-05-13,Shankar Inc
+81,81,Mumbai,115,22,2026-07-13,Sarna Group
+82,82,Delhi,50,37,2026-04-22,Gokhale Inc
+83,83,Hyderabad,478,46,2026-05-09,"Maharaj, Bahri and Padmanabhan"
+84,84,Mumbai,385,22,2026-05-29,Sankar-Merchant
+85,85,Mumbai,154,62,2026-06-25,Jhaveri and Sons
+86,86,Hyderabad,328,78,2026-06-22,"Minhas, Pillay and Nazareth"
+87,87,Mumbai,10,29,2026-05-11,Warrior-Jain
+88,88,Delhi,174,62,2026-04-29,Datta Ltd
+89,89,Hyderabad,28,28,2026-07-19,Mitra Ltd
+90,90,Bengaluru,453,64,2026-05-26,Zacharia Group
+91,91,Mumbai,42,48,2026-05-27,Kala-Patla
+92,92,Hyderabad,489,51,2026-06-30,Bhandari LLC
+93,93,Mumbai,271,38,2026-06-27,Devi-Kapadia
+94,94,Mumbai,222,47,2026-05-10,Sani LLC
+95,95,Mumbai,148,24,2026-07-06,Dhar Inc
+96,96,Mumbai,455,60,2026-06-09,Mital-Toor
+97,97,Delhi,264,77,2026-05-21,Singh LLC
+98,98,Bengaluru,463,57,2026-06-22,"Sen, Dhar and Varma"
+99,99,Delhi,374,46,2026-06-11,"Sangha, Datta and Kalita"
+100,100,Bengaluru,391,79,2026-05-20,Patil-Shetty
+101,101,Bengaluru,431,48,2026-05-27,"Mitter, Chatterjee and Wable"
+102,102,Mumbai,315,67,2026-06-07,"Parmar, Sangha and Dara"
+103,103,Hyderabad,474,74,2026-05-10,"Bassi, Balay and Bal"
+104,104,Delhi,167,39,2026-06-03,"Sharaf, Mane and Thaker"
+105,105,Delhi,188,46,2026-04-22,Dalal Ltd
+106,106,Bengaluru,491,21,2026-06-22,"Kant, Peri and Pall"
+107,107,Mumbai,75,25,2026-05-02,Jayaraman and Sons
+108,108,Bengaluru,181,59,2026-05-05,Palla-Dass
+109,109,Delhi,186,71,2026-05-08,Master Inc
+110,110,Delhi,273,44,2026-06-23,"Loke, Sama and Kalla"
+111,111,Mumbai,377,68,2026-07-12,Majumdar Group
+112,112,Hyderabad,331,74,2026-05-22,Kant-Rattan
+113,113,Mumbai,277,74,2026-06-09,Brahmbhatt Inc
+114,114,Hyderabad,275,71,2026-06-08,Bhardwaj-Goyal
+115,115,Bengaluru,333,70,2026-05-02,Bhandari-Rattan
+116,116,Bengaluru,15,57,2026-04-26,"Arya, Vohra and Upadhyay"
+117,117,Bengaluru,423,55,2026-06-07,Dyal-Nigam
+118,118,Mumbai,95,78,2026-06-30,"Mital, Chandra and Thaker"
+119,119,Delhi,434,22,2026-07-14,Lanka-Solanki
+120,120,Bengaluru,329,25,2026-06-10,Ramaswamy LLC
+121,121,Hyderabad,109,70,2026-06-08,Bhardwaj Group
+122,122,Delhi,33,65,2026-05-02,Parmer and Sons
+123,123,Hyderabad,164,24,2026-05-19,"Brahmbhatt, Shan and Mani"
+124,124,Hyderabad,222,78,2026-05-22,Mani and Sons
+125,125,Mumbai,105,45,2026-06-19,Borah-Lal
+126,126,Delhi,237,67,2026-07-19,Dara Group
+127,127,Mumbai,99,43,2026-06-06,"Khatri, Deshmukh and Maharaj"
+128,128,Hyderabad,457,55,2026-05-21,Dutt-Wali
+129,129,Delhi,497,66,2026-07-02,Andra-Naidu
+130,130,Bengaluru,93,44,2026-06-21,Ray-Buch
+131,131,Delhi,198,25,2026-06-02,"Bala, Manda and Sane"
+132,132,Mumbai,409,50,2026-06-05,Gala PLC
+133,133,Hyderabad,238,52,2026-05-17,Randhawa-Chadha
+134,134,Bengaluru,293,31,2026-04-23,Banerjee-Nagi
+135,135,Delhi,32,53,2026-05-05,Datta-Bhasin
+136,136,Bengaluru,285,64,2026-07-18,Wali-Prakash
+137,137,Mumbai,68,33,2026-05-02,Mishra Group
+138,138,Hyderabad,352,41,2026-06-14,Sarraf-Joshi
+139,139,Delhi,431,38,2026-07-05,Balasubramanian-Pandya
+140,140,Mumbai,52,77,2026-07-10,"Yadav, Chaudry and Sunder"
+141,141,Hyderabad,298,24,2026-05-10,Kanda and Sons
+142,142,Bengaluru,408,80,2026-05-15,Agrawal-Thakur
+143,143,Delhi,16,76,2026-05-09,Chowdhury PLC
+144,144,Delhi,256,30,2026-04-24,Deep Inc
+145,145,Bengaluru,322,36,2026-06-15,Mohanty-Chanda
+146,146,Mumbai,141,29,2026-05-30,Verma-Yadav
+147,147,Hyderabad,335,47,2026-05-29,Walla Inc
+148,148,Delhi,89,25,2026-05-09,Vala and Sons
+149,149,Hyderabad,427,28,2026-04-25,Rout PLC
+150,150,Bengaluru,460,70,2026-05-15,"Sandal, Sekhon and Andra"
+151,151,Bengaluru,13,42,2026-05-07,Kannan LLC
+152,152,Mumbai,216,40,2026-07-09,"Radhakrishnan, Kaul and Subramaniam"
+153,153,Hyderabad,162,37,2026-06-16,"Bandi, Pandit and Dhaliwal"
+154,154,Bengaluru,333,33,2026-06-18,Seshadri-Tara
+155,155,Delhi,145,21,2026-04-26,Sekhon Ltd
+156,156,Mumbai,242,26,2026-06-16,"Hari, Dada and Krishna"
+157,157,Mumbai,240,61,2026-07-19,Dugal-Bhakta
+158,158,Mumbai,380,22,2026-06-05,Srinivasan LLC
+159,159,Hyderabad,228,72,2026-07-03,Rattan-Kohli
+160,160,Bengaluru,485,71,2026-06-30,Vohra-Vig
+161,161,Bengaluru,41,33,2026-05-10,"Rana, Majumdar and Rajagopal"
+162,162,Hyderabad,226,25,2026-05-14,Memon-Tank
+163,163,Hyderabad,315,49,2026-06-19,"Bajwa, Kant and Karan"
+164,164,Hyderabad,383,28,2026-06-19,Borra Ltd
+165,165,Mumbai,265,60,2026-06-16,Bandi LLC
+166,166,Bengaluru,372,55,2026-06-25,Sane PLC
+167,167,Delhi,141,72,2026-07-06,Natarajan-Oommen
+168,168,Bengaluru,182,54,2026-05-18,Arya Ltd
+169,169,Delhi,171,65,2026-07-18,Sidhu-Bakshi
+170,170,Hyderabad,133,70,2026-04-28,"Sahni, Ramaswamy and Radhakrishnan"
+171,171,Bengaluru,465,21,2026-07-02,"Loyal, Pai and Gour"
+172,172,Mumbai,378,40,2026-07-13,Sandhu-Suresh
+173,173,Mumbai,351,23,2026-05-10,Bhatti Inc
+174,174,Hyderabad,127,20,2026-06-19,Sama-Manne
+175,175,Delhi,247,77,2026-06-28,Som-Rama
+176,176,Mumbai,427,57,2026-05-09,"Pillai, Devan and Dixit"
+177,177,Delhi,269,21,2026-04-25,Kata Group
+178,178,Hyderabad,256,29,2026-07-05,Sood and Sons
+179,179,Hyderabad,113,64,2026-04-22,Grewal-Butala
+180,180,Mumbai,44,59,2026-06-08,"Patla, Setty and Mitra"
+181,181,Delhi,150,65,2026-05-06,Nayar-Atwal
+182,182,Bengaluru,38,72,2026-05-05,Vora-Jhaveri
+183,183,Hyderabad,326,34,2026-04-22,Kala and Sons
+184,184,Delhi,180,29,2026-05-13,Khalsa-Raju
+185,185,Mumbai,275,27,2026-07-05,"Devi, Virk and Murthy"
+186,186,Mumbai,98,24,2026-06-22,Madan Ltd
+187,187,Bengaluru,216,72,2026-05-04,Mandal-Naidu
+188,188,Hyderabad,56,75,2026-05-27,Gour Group
+189,189,Delhi,245,36,2026-06-26,Verma-Ramesh
+190,190,Hyderabad,345,62,2026-05-01,"Chopra, Sandhu and Bora"
+191,191,Delhi,160,38,2026-07-11,Sankar Group
+192,192,Hyderabad,86,39,2026-05-17,Bhat and Sons
+193,193,Hyderabad,267,36,2026-05-31,"Agate, Barman and Korpal"
+194,194,Hyderabad,289,63,2026-07-06,Peri LLC
+195,195,Delhi,414,57,2026-06-11,"Memon, Dalal and Mangat"
+196,196,Delhi,303,29,2026-05-22,Biswas-Mitter
+197,197,Delhi,499,68,2026-07-04,Madan-Pall
+198,198,Hyderabad,351,48,2026-05-02,Randhawa-Zacharia
+199,199,Bengaluru,78,49,2026-07-14,Tella-Palan
+200,200,Mumbai,455,31,2026-06-09,Soni Inc
+201,201,Bengaluru,94,68,2026-06-08,Subramaniam-Dhar
+202,202,Delhi,209,74,2026-06-09,Iyer Inc
+203,203,Mumbai,296,42,2026-06-14,Mishra-Babu
+204,204,Hyderabad,173,57,2026-06-16,Puri-Andra
+205,205,Delhi,335,28,2026-06-13,"Nayar, Bera and Gole"
+206,206,Bengaluru,408,46,2026-06-28,Kata-Sarkar
+207,207,Hyderabad,113,35,2026-05-30,"Kala, Hegde and Memon"
+208,208,Mumbai,23,24,2026-06-01,"Thaker, Kade and Kapadia"
+209,209,Bengaluru,476,71,2026-07-17,Morar-Parsa
+210,210,Bengaluru,465,78,2026-05-06,Pandya Group
+211,211,Mumbai,140,64,2026-05-22,Tata-Pandey
+212,212,Delhi,224,48,2026-07-05,"Sha, Wadhwa and Mall"
+213,213,Mumbai,209,27,2026-06-12,"Mandal, Khanna and Prashad"
+214,214,Mumbai,120,74,2026-06-19,Hari-Varty
+215,215,Bengaluru,340,29,2026-05-06,"Roy, Yadav and Tandon"
+216,216,Bengaluru,457,42,2026-06-07,Yohannan-Dhingra
+217,217,Hyderabad,137,42,2026-05-23,Dora-Dave
+218,218,Hyderabad,250,35,2026-05-26,Shanker-Kannan
+219,219,Hyderabad,189,65,2026-05-19,Andra PLC
+220,220,Bengaluru,327,50,2026-05-18,Prabhakar-Maharaj
+221,221,Mumbai,199,56,2026-07-16,Mitter Group
+222,222,Hyderabad,299,34,2026-05-13,"Bhagat, Mitra and Choudhary"
+223,223,Hyderabad,445,53,2026-06-24,Mall-Soman
+224,224,Mumbai,372,36,2026-06-08,Pai Group
+225,225,Hyderabad,304,31,2026-05-28,"Chand, Sinha and Aggarwal"
+226,226,Hyderabad,324,69,2026-05-12,"Swaminathan, Viswanathan and Subramaniam"
+227,227,Bengaluru,179,76,2026-07-09,Nath-Radhakrishnan
+228,228,Mumbai,391,39,2026-07-13,Agate LLC
+229,229,Bengaluru,154,70,2026-05-01,Maharaj-Bhavsar
+230,230,Hyderabad,320,40,2026-04-24,"Chawla, Manda and Warrior"
+231,231,Bengaluru,129,42,2026-05-20,Kunda-Konda
+232,232,Delhi,192,72,2026-05-02,"Rege, Kothari and Bhargava"
+233,233,Mumbai,250,44,2026-07-01,Chaudhari PLC
+234,234,Bengaluru,473,42,2026-07-20,Mahajan Group
+235,235,Bengaluru,30,54,2026-06-28,Salvi-Radhakrishnan
+236,236,Hyderabad,91,66,2026-06-29,Mody-Shan
+237,237,Hyderabad,433,49,2026-05-03,Raval-Balay
+238,238,Delhi,107,47,2026-06-05,Oommen Inc
+239,239,Hyderabad,240,34,2026-04-28,"Wali, Bhandari and Dora"
+240,240,Delhi,432,65,2026-05-12,Nigam PLC
+241,241,Delhi,498,48,2026-06-04,Salvi Group
+242,242,Bengaluru,242,20,2026-06-11,Pai-Om
+243,243,Hyderabad,45,65,2026-07-03,Rajagopalan-Solanki
+244,244,Bengaluru,171,65,2026-05-03,Dugar Group
+245,245,Bengaluru,461,24,2026-05-13,Lad PLC
+246,246,Hyderabad,356,20,2026-06-22,Manne and Sons
+247,247,Delhi,120,73,2026-07-14,"Lad, Dalal and Rajan"
+248,248,Mumbai,429,66,2026-05-10,"Mandal, Kapadia and Mallick"
+249,249,Delhi,479,57,2026-05-27,Sarraf-Mahal
+250,250,Bengaluru,223,25,2026-07-17,Kar-Thaman
+251,251,Hyderabad,413,35,2026-06-25,Cherian and Sons
+252,252,Delhi,33,35,2026-06-23,Dora LLC
+253,253,Hyderabad,134,54,2026-07-10,Kulkarni-Sem
+254,254,Delhi,383,38,2026-05-17,"Raghavan, Narayanan and Barad"
+255,255,Bengaluru,67,73,2026-05-12,"Dutt, Mittal and Warrior"
+256,256,Bengaluru,461,69,2026-05-02,"Ghose, Bahl and Jhaveri"
+257,257,Hyderabad,308,69,2026-06-15,Krish-Munshi
+258,258,Mumbai,390,20,2026-07-14,Bahri-Bandi
+259,259,Delhi,239,60,2026-06-27,Kunda-Guha
+260,260,Delhi,133,20,2026-05-25,Sur Ltd
+261,261,Hyderabad,424,41,2026-06-20,Rastogi LLC
+262,262,Delhi,290,68,2026-04-25,Goda LLC
+263,263,Delhi,180,44,2026-05-19,"Swaminathan, Pant and Dalal"
+264,264,Delhi,111,44,2026-06-03,Bahri PLC
+265,265,Bengaluru,384,40,2026-06-28,Jha PLC
+266,266,Bengaluru,84,78,2026-06-07,"Muni, Hegde and Dube"
+267,267,Mumbai,74,37,2026-05-05,Natarajan PLC
+268,268,Hyderabad,189,30,2026-05-18,Din Inc
+269,269,Delhi,150,67,2026-04-22,"Bali, Wason and Dhawan"
+270,270,Delhi,324,79,2026-06-23,"Kar, Wadhwa and Sarna"
+271,271,Hyderabad,252,54,2026-07-02,Gokhale LLC
+272,272,Mumbai,285,70,2026-05-01,"Sankaran, Dora and Chahal"
+273,273,Bengaluru,480,60,2026-05-11,Raja Ltd
+274,274,Delhi,240,77,2026-05-13,Mital and Sons
+275,275,Delhi,126,38,2026-07-10,Patla LLC
+276,276,Delhi,238,38,2026-05-03,Pingle PLC
+277,277,Delhi,283,69,2026-05-05,"Mallick, Wali and Setty"
+278,278,Hyderabad,463,31,2026-06-20,Banerjee Group
+279,279,Hyderabad,431,37,2026-06-13,Deo PLC
+280,280,Mumbai,478,67,2026-07-07,Menon Group
+281,281,Bengaluru,459,76,2026-07-19,"Natt, Iyer and Sanghvi"
+282,282,Hyderabad,57,80,2026-06-19,"Anand, Aurora and Tella"
+283,283,Hyderabad,457,55,2026-07-04,Peri-Rana
+284,284,Hyderabad,343,68,2026-05-05,"Boase, Chad and Kaur"
+285,285,Hyderabad,128,24,2026-05-21,Comar-Gandhi
+286,286,Mumbai,130,73,2026-04-30,"Patel, Lanka and Grewal"
+287,287,Hyderabad,350,76,2026-04-23,"Vohra, Mann and Manne"
+288,288,Hyderabad,22,57,2026-05-21,Loyal Ltd
+289,289,Mumbai,493,77,2026-04-29,Chaudhary LLC
+290,290,Delhi,415,30,2026-05-28,Cheema Ltd
+291,291,Hyderabad,46,44,2026-06-26,Brar PLC
+292,292,Mumbai,351,51,2026-05-08,Narayan-Chakraborty
+293,293,Mumbai,383,31,2026-04-30,Handa LLC
+294,294,Mumbai,405,58,2026-06-20,"Varkey, Pingle and Dada"
+295,295,Delhi,87,37,2026-06-17,Dhaliwal Inc
+296,296,Mumbai,265,40,2026-06-26,"Goda, Bir and Prashad"
+297,297,Bengaluru,475,64,2026-04-23,"Suresh, Raman and Tripathi"
+298,298,Mumbai,395,47,2026-04-22,Dutta LLC
+299,299,Hyderabad,361,76,2026-05-26,Ramakrishnan PLC
+300,300,Mumbai,334,42,2026-06-11,"Din, Boase and Peri"
+301,301,Bengaluru,433,33,2026-06-19,Gour-Kaur
+302,302,Hyderabad,145,47,2026-06-04,Jaggi-Gala
+303,303,Delhi,150,60,2026-07-13,"Sarin, Loyal and Chand"
+304,304,Mumbai,29,77,2026-07-12,Patla Group
+305,305,Mumbai,131,64,2026-05-28,Ben LLC
+306,306,Delhi,428,23,2026-05-13,Devan-Sharma
+307,307,Delhi,418,39,2026-05-13,Patla PLC
+308,308,Hyderabad,448,45,2026-06-14,"Sabharwal, Chadha and Bhardwaj"
+309,309,Bengaluru,447,72,2026-05-19,Date-Kohli
+310,310,Mumbai,261,64,2026-06-24,Pingle-Raman
+311,311,Mumbai,163,41,2026-06-07,Varughese-Chanda
+312,312,Delhi,96,63,2026-06-20,Srinivasan-Mani
+313,313,Mumbai,406,72,2026-05-18,Halder-Kant
+314,314,Bengaluru,83,59,2026-06-01,Kapur-Oommen
+315,315,Bengaluru,98,36,2026-06-21,Dass-Andra
+316,316,Bengaluru,430,36,2026-06-18,"Mital, Mahajan and Lad"
+317,317,Bengaluru,270,54,2026-04-22,"Mandal, Deshmukh and Deol"
+318,318,Mumbai,27,32,2026-05-29,"Brar, Ramesh and Chawla"
+319,319,Hyderabad,63,27,2026-07-07,Bhatnagar and Sons
+320,320,Mumbai,15,43,2026-06-04,Goel-Kota
+321,321,Hyderabad,156,72,2026-06-18,Gulati Ltd
+322,322,Delhi,411,28,2026-07-20,Bandi-Naidu
+323,323,Hyderabad,464,25,2026-05-19,Bains PLC
+324,324,Hyderabad,431,71,2026-06-24,"Goswami, Varughese and Guha"
+325,325,Mumbai,147,67,2026-07-20,Ramachandran and Sons
+326,326,Hyderabad,60,49,2026-05-05,"Bains, Vig and Patla"
+327,327,Bengaluru,109,60,2026-06-13,Nagar-Panchal
+328,328,Delhi,129,22,2026-07-09,"Chandran, Suresh and Chaudhari"
+329,329,Bengaluru,18,42,2026-06-08,Guha-Oommen
+330,330,Mumbai,424,26,2026-05-24,Sekhon Group
+331,331,Delhi,32,21,2026-05-28,Devi PLC
+332,332,Mumbai,424,29,2026-05-17,"Sekhon, Sura and Ganguly"
+333,333,Mumbai,217,20,2026-05-28,"Narayanan, Pal and Gulati"
+334,334,Mumbai,13,55,2026-05-06,"Mital, Pingle and Srinivasan"
+335,335,Delhi,147,41,2026-05-06,"Karpe, Purohit and Bakshi"
+336,336,Mumbai,97,79,2026-06-12,Pau LLC
+337,337,Mumbai,193,72,2026-06-17,Ramachandran PLC
+338,338,Delhi,51,39,2026-06-19,"Khurana, Halder and Sandhu"
+339,339,Mumbai,14,40,2026-06-14,Nagy-Rajagopal
+340,340,Bengaluru,419,55,2026-07-09,Mann and Sons
+341,341,Bengaluru,219,30,2026-04-26,Kaul-Khare
+342,342,Bengaluru,431,59,2026-05-19,Ranganathan PLC
+343,343,Bengaluru,55,45,2026-05-13,"Koshy, Kala and Jhaveri"
+344,344,Delhi,53,40,2026-05-23,Panchal Ltd
+345,345,Delhi,158,72,2026-07-10,Parmar-Anand
+346,346,Mumbai,361,41,2026-06-21,Jhaveri Ltd
+347,347,Delhi,308,27,2026-05-10,Balasubramanian Ltd
+348,348,Delhi,331,27,2026-05-06,Kanda-Lall
+349,349,Bengaluru,346,28,2026-06-18,Palan-Naik
+350,350,Hyderabad,93,44,2026-06-29,Borde-De
+351,351,Bengaluru,330,50,2026-06-27,Lal-Kannan
+352,352,Delhi,392,65,2026-04-26,"Dalal, Prabhu and Bala"
+353,353,Bengaluru,214,73,2026-05-16,"Kanda, Luthra and Kapur"
+354,354,Hyderabad,135,26,2026-05-02,Kalita-Parmar
+355,355,Delhi,330,79,2026-06-02,Patla PLC
+356,356,Hyderabad,361,50,2026-07-09,"Taneja, Jain and Lad"
+357,357,Mumbai,216,50,2026-05-22,Samra and Sons
+358,358,Delhi,196,55,2026-05-09,"Cherian, Barman and Rege"
+359,359,Bengaluru,245,38,2026-07-03,Chakraborty Group
+360,360,Mumbai,302,38,2026-07-13,Malhotra Ltd
+361,361,Hyderabad,296,56,2026-07-17,Mital-Varghese
+362,362,Mumbai,178,67,2026-06-07,Dixit-Ranganathan
+363,363,Delhi,239,77,2026-07-12,More-Sharaf
+364,364,Bengaluru,234,26,2026-07-11,Varughese-Sarna
+365,365,Mumbai,345,34,2026-07-06,Savant-Pandit
+366,366,Hyderabad,386,21,2026-05-29,Devi-Rout
+367,367,Hyderabad,73,51,2026-06-18,Zachariah-Basu
+368,368,Mumbai,98,39,2026-04-27,Joshi-Kothari
+369,369,Hyderabad,330,40,2026-07-08,"Sundaram, Krishna and Sengupta"
+370,370,Mumbai,292,39,2026-05-11,Chaudhary-More
+371,371,Mumbai,218,57,2026-04-27,Bhat and Sons
+372,372,Mumbai,491,30,2026-04-28,"Sur, Sharma and Kulkarni"
+373,373,Bengaluru,204,73,2026-05-19,Sane-Krishna
+374,374,Mumbai,369,76,2026-07-06,"Rastogi, Buch and Kara"
+375,375,Delhi,346,57,2026-06-03,Tata LLC
+376,376,Mumbai,24,25,2026-07-01,Modi-Sane
+377,377,Bengaluru,117,42,2026-05-03,Baria-Majumdar
+378,378,Bengaluru,92,31,2026-07-11,Sahota-Anne
+379,379,Delhi,285,78,2026-07-15,"Mander, Nori and Patil"
+380,380,Delhi,374,34,2026-05-02,Tiwari-Dalal
+381,381,Mumbai,436,30,2026-05-27,Saran-Dara
+382,382,Mumbai,452,20,2026-04-27,Reddy PLC
+383,383,Mumbai,141,59,2026-07-13,Sinha-Rana
+384,384,Bengaluru,206,43,2026-06-15,Ramesh PLC
+385,385,Bengaluru,13,38,2026-06-16,"Pandit, Padmanabhan and Hans"
+386,386,Mumbai,29,37,2026-05-08,"Dube, Wable and Raman"
+387,387,Bengaluru,483,27,2026-04-29,Tandon Inc
+388,388,Delhi,41,48,2026-05-15,Konda-Saha
+389,389,Mumbai,375,32,2026-05-11,"Pai, Raman and Loke"
+390,390,Mumbai,49,75,2026-06-19,Chandran Group
+391,391,Hyderabad,410,28,2026-07-14,Tandon Inc
+392,392,Hyderabad,217,51,2026-07-09,Morar-Nadig
+393,393,Hyderabad,53,43,2026-07-12,"Jain, Nori and Yadav"
+394,394,Bengaluru,162,79,2026-07-20,"Chand, Chaudhuri and Nair"
+395,395,Hyderabad,329,68,2026-05-25,Mital Inc
+396,396,Mumbai,119,24,2026-06-02,"Hora, Chakraborty and Bhatti"
+397,397,Delhi,132,78,2026-06-08,Sandal-Nagar
+398,398,Mumbai,193,47,2026-07-07,Murty-Bala
+399,399,Bengaluru,125,28,2026-05-22,Dhar PLC
+400,400,Bengaluru,172,51,2026-06-11,"Chaudhari, Pandey and Sarma"
+401,401,Mumbai,66,38,2026-05-16,Maharaj-Karnik
+402,402,Hyderabad,410,49,2026-04-28,Wable Inc
+403,403,Mumbai,346,43,2026-04-27,D’Alia-Kanda
+404,404,Hyderabad,390,27,2026-05-21,Virk-Kamdar
+405,405,Mumbai,269,24,2026-06-12,Dey-Kumer
+406,406,Hyderabad,238,78,2026-07-19,Dave-Mital
+407,407,Bengaluru,385,77,2026-05-06,Aurora-Chada
+408,408,Hyderabad,168,78,2026-04-28,Buch-Jhaveri
+409,409,Mumbai,71,36,2026-05-25,"Mand, Saha and Toor"
+410,410,Mumbai,135,77,2026-06-02,Kunda Inc
+411,411,Hyderabad,44,63,2026-06-20,Mittal-Pathak
+412,412,Bengaluru,39,56,2026-07-14,"Bath, Patla and Kulkarni"
+413,413,Bengaluru,193,30,2026-07-06,Mand PLC
+414,414,Bengaluru,187,70,2026-05-21,Bhasin Ltd
+415,415,Delhi,458,65,2026-06-25,Natt LLC
+416,416,Mumbai,42,39,2026-06-13,Date-Narayanan
+417,417,Mumbai,274,61,2026-07-09,Goel-Dyal
+418,418,Delhi,439,20,2026-06-01,Rattan Ltd
+419,419,Bengaluru,384,28,2026-07-19,Prashad LLC
+420,420,Bengaluru,46,51,2026-06-21,Vala-Nazareth
+421,421,Mumbai,234,49,2026-06-20,Jaggi-Bedi
+422,422,Delhi,430,56,2026-05-28,Saini-Sane
+423,423,Bengaluru,234,22,2026-05-04,Banik-Dugar
+424,424,Hyderabad,301,32,2026-07-14,Rao Ltd
+425,425,Bengaluru,441,26,2026-04-25,Soni-Dubey
+426,426,Bengaluru,234,79,2026-06-14,Kalla PLC
+427,427,Delhi,108,76,2026-04-29,Natarajan-Chandran
+428,428,Bengaluru,326,42,2026-07-08,Khare LLC
+429,429,Mumbai,465,42,2026-05-18,Sani and Sons
+430,430,Bengaluru,235,51,2026-04-26,Ghosh PLC
+431,431,Mumbai,357,42,2026-07-17,Narula PLC
+432,432,Hyderabad,314,68,2026-05-01,"Gupta, Anne and Singhal"
+433,433,Delhi,197,59,2026-05-22,Minhas Inc
+434,434,Bengaluru,392,35,2026-06-28,Iyengar-Chakrabarti
+435,435,Delhi,135,31,2026-07-18,Walla Group
+436,436,Bengaluru,83,47,2026-05-12,Lad Group
+437,437,Bengaluru,376,32,2026-05-02,Yohannan-Desai
+438,438,Delhi,52,57,2026-06-29,Saran-Bali
+439,439,Mumbai,443,41,2026-07-19,"Bajwa, Bhalla and Balan"
+440,440,Hyderabad,16,80,2026-05-09,Tata and Sons
+441,441,Delhi,17,29,2026-06-22,"Oommen, Shroff and Wason"
+442,442,Hyderabad,155,76,2026-06-25,Garg Ltd
+443,443,Bengaluru,478,26,2026-06-11,Chander and Sons
+444,444,Bengaluru,228,43,2026-07-17,"Cherian, Goswami and More"
+445,445,Delhi,481,40,2026-05-29,Uppal PLC
+446,446,Bengaluru,63,47,2026-05-23,"Talwar, Joshi and Sarma"
+447,447,Delhi,90,59,2026-07-11,"Dutt, Karpe and Tandon"
+448,448,Hyderabad,174,33,2026-06-11,Das Ltd
+449,449,Mumbai,213,25,2026-05-29,Dash Group
+450,450,Hyderabad,238,80,2026-05-05,"Chad, Chand and Choudhury"
+451,451,Hyderabad,28,29,2026-05-24,"Sampath, Sundaram and Mishra"
+452,452,Hyderabad,228,24,2026-07-03,Baral LLC
+453,453,Hyderabad,381,20,2026-07-15,Vaidya-Tella
+454,454,Delhi,407,27,2026-04-28,"Chada, Maharaj and Saini"
+455,455,Hyderabad,301,68,2026-05-13,Narain-Choudhry
+456,456,Bengaluru,271,75,2026-07-06,Bir Group
+457,457,Delhi,215,75,2026-05-29,"Singhal, Chauhan and Mander"
+458,458,Delhi,353,76,2026-07-06,Krish Group
+459,459,Delhi,497,44,2026-05-21,Puri and Sons
+460,460,Bengaluru,364,22,2026-05-19,Arya-Garg
+461,461,Hyderabad,373,31,2026-05-31,"Saini, Varty and Dani"
+462,462,Hyderabad,446,71,2026-04-22,Bir Ltd
+463,463,Delhi,327,77,2026-05-17,"Kulkarni, Radhakrishnan and Virk"
+464,464,Bengaluru,346,34,2026-06-03,Sabharwal-Sidhu
+465,465,Delhi,403,46,2026-07-05,Bath LLC
+466,466,Hyderabad,491,72,2026-07-15,Gaba LLC
+467,467,Mumbai,499,59,2026-06-29,"Joshi, Raja and Vyas"
+468,468,Bengaluru,311,79,2026-07-16,Chatterjee LLC
+469,469,Bengaluru,60,34,2026-05-11,"Dutt, Bobal and Suri"
+470,470,Delhi,246,22,2026-06-30,"Issac, Arora and Narasimhan"
+471,471,Delhi,230,67,2026-07-16,Varghese-Srinivas
+472,472,Delhi,42,74,2026-05-31,"Deo, Chander and Kibe"
+473,473,Delhi,172,55,2026-05-10,"Kala, Divan and Prashad"
+474,474,Bengaluru,395,66,2026-05-11,Salvi LLC
+475,475,Hyderabad,251,50,2026-07-17,"Sura, Kalita and Hari"
+476,476,Mumbai,116,69,2026-05-06,Pillai Inc
+477,477,Bengaluru,42,29,2026-05-03,Salvi-Hegde
+478,478,Delhi,492,23,2026-05-17,Tandon-Mahal
+479,479,Bengaluru,290,35,2026-06-15,"Viswanathan, Savant and Raju"
+480,480,Bengaluru,171,33,2026-04-30,"Krishna, Bali and Doctor"
+481,481,Bengaluru,34,80,2026-06-29,Yadav LLC
+482,482,Hyderabad,72,31,2026-06-03,"Vasa, Doshi and Varkey"
+483,483,Mumbai,329,33,2026-06-30,Memon Ltd
+484,484,Mumbai,381,77,2026-05-20,"Krish, Sunder and Palla"
+485,485,Delhi,471,47,2026-06-30,Murty Group
+486,486,Hyderabad,202,20,2026-07-16,Sodhi-Setty
+487,487,Hyderabad,441,46,2026-06-22,Loyal-Minhas
+488,488,Bengaluru,226,21,2026-05-03,Dora-Wason
+489,489,Hyderabad,431,61,2026-06-12,"Nayar, Sodhi and Basu"
+490,490,Delhi,246,79,2026-05-17,Minhas-Shan
+491,491,Mumbai,449,66,2026-05-03,"De, Mukherjee and Gupta"
+492,492,Hyderabad,298,64,2026-05-17,Pai-Edwin
+493,493,Mumbai,363,30,2026-04-30,Pal and Sons
+494,494,Hyderabad,76,75,2026-05-23,Vala-Aggarwal
+495,495,Mumbai,103,80,2026-05-15,Basak Group
+496,496,Bengaluru,426,31,2026-06-12,Dugar Inc
+497,497,Mumbai,18,43,2026-06-04,Vaidya-Minhas
+498,498,Hyderabad,359,32,2026-05-19,Dayal-Bhatnagar
+499,499,Bengaluru,199,41,2026-05-27,"Hayre, Muni and Natarajan"
+500,500,Hyderabad,363,35,2026-05-13,Pal-Dugar
