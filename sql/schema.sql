@@ -116,3 +116,84 @@ SELECT
 FROM information_schema.KEY_COLUMN_USAGE
 WHERE TABLE_SCHEMA = 'retail_analytics'
 AND REFERENCED_TABLE_NAME IS NOT NULL;
+
+-- Verify Row Counts
+SELECT COUNT(*) AS TotalCustomers
+FROM customers;
+
+SELECT COUNT(*) AS TotalProducts
+FROM products;
+
+SELECT COUNT(*) AS TotalSales
+FROM sales;
+
+SELECT COUNT(*) AS TotalInventory
+FROM inventory;
+
+-- Preview Data
+SELECT *
+FROM customers
+LIMIT 10;
+
+SELECT *
+FROM products
+LIMIT 10;
+
+SELECT *
+FROM sales
+LIMIT 10;
+
+SELECT *
+FROM inventory
+LIMIT 10;
+
+-- Verify Foreign Keys
+-- Check Customer IDs
+SELECT COUNT(*)
+FROM sales s
+LEFT JOIN customers c
+ON s.CustomerID = c.CustomerID
+WHERE c.CustomerID IS NULL;
+
+-- Check Product IDs in Sales
+SELECT COUNT(*)
+FROM sales s
+LEFT JOIN products p
+ON s.ProductID = p.ProductID
+WHERE p.ProductID IS NULL;
+
+-- Check Product IDs in Inventory
+SELECT COUNT(*)
+FROM inventory i
+LEFT JOIN products p
+ON i.ProductID = p.ProductID
+WHERE p.ProductID IS NULL;
+
+-- Check for Duplicates
+SELECT CustomerID,
+       COUNT(*) AS Total
+FROM customers
+GROUP BY CustomerID
+HAVING COUNT(*) > 1;
+
+SELECT ProductID,
+       COUNT(*) AS Total
+FROM products
+GROUP BY ProductID
+HAVING COUNT(*) > 1;
+
+SELECT OrderID,
+       COUNT(*) AS Total
+FROM sales
+GROUP BY OrderID
+HAVING COUNT(*) > 1;
+
+-- Check for NULL Values
+SELECT *
+FROM customers
+WHERE CustomerName IS NULL
+   OR Gender IS NULL
+   OR Age IS NULL
+   OR City IS NULL
+   OR State IS NULL
+   OR JoinDate IS NULL;
