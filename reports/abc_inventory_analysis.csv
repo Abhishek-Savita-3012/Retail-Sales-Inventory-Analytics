@@ -1,0 +1,501 @@
+InventoryID,ProductID,Warehouse,StockAvailable,ReorderLevel,LastRestocked,Supplier,ProductName,Category,SubCategory,CostPrice,SellingPrice,InventoryValue,Contribution,Cumulative,ABC_Category
+129,129,Delhi,497,66,2026-07-02,Andra-Naidu,Jeans 129,Clothing,Jeans,4660,8010.34,2316020,0.73,0.73,A
+485,485,Delhi,471,47,2026-06-30,Murty Group,Football 485,Sports,Football,4799,8098.73,2260329,0.71,1.44,A
+308,308,Hyderabad,448,45,2026-06-14,"Sabharwal, Chadha and Bhardwaj",Phone 308,Electronics,Phone,5000,6358.64,2240000,0.71,2.15,A
+30,30,Mumbai,459,33,2026-06-22,Choudhry-Bera,Jacket 30,Clothing,Jacket,4851,8770.8,2226609,0.7,2.85,A
+160,160,Bengaluru,485,71,2026-06-30,Vohra-Vig,Headphones 160,Electronics,Headphones,4434,8850.29,2150490,0.68,3.53,A
+278,278,Hyderabad,463,31,2026-06-20,Banerjee Group,Jeans 278,Clothing,Jeans,4611,5555.77,2134893,0.67,4.21,A
+422,422,Delhi,430,56,2026-05-28,Saini-Sane,Headphones 422,Electronics,Headphones,4953,9845.64,2129790,0.67,4.88,A
+289,289,Mumbai,493,77,2026-04-29,Chaudhary LLC,Cricket Bat 289,Sports,Cricket Bat,4270,6067.2,2105110,0.66,5.54,A
+240,240,Delhi,432,65,2026-05-12,Nigam PLC,Phone 240,Electronics,Phone,4842,6269.49,2091744,0.66,6.2,A
+261,261,Hyderabad,424,41,2026-06-20,Rastogi LLC,Table 261,Home,Table,4868,6079.74,2064032,0.65,6.86,A
+340,340,Bengaluru,419,55,2026-07-09,Mann and Sons,Gloves 340,Sports,Gloves,4907,8683.84,2056033,0.65,7.5,A
+283,283,Hyderabad,457,55,2026-07-04,Peri-Rana,Cricket Bat 283,Sports,Cricket Bat,4487,6717.68,2050559,0.65,8.15,A
+496,496,Bengaluru,426,31,2026-06-12,Dugar Inc,Table 496,Home,Table,4761,8990.12,2028186,0.64,8.79,A
+21,21,Delhi,434,47,2026-05-14,Pai-Mani,Headphones 21,Electronics,Headphones,4620,7918.04,2005080,0.63,9.43,A
+195,195,Delhi,414,57,2026-06-11,"Memon, Dalal and Mangat",Football 195,Sports,Football,4765,6237.06,1972710,0.62,10.05,A
+454,454,Delhi,407,27,2026-04-28,"Chada, Maharaj and Saini",Table 454,Home,Table,4763,8367.43,1938541,0.61,10.66,A
+443,443,Bengaluru,478,26,2026-06-11,Chander and Sons,Helmet 443,Sports,Helmet,4031,4859.41,1926818,0.61,11.27,A
+106,106,Bengaluru,491,21,2026-06-22,"Kant, Peri and Pall",Football 106,Sports,Football,3792,5880.29,1861872,0.59,11.86,A
+254,254,Delhi,383,38,2026-05-17,"Raghavan, Narayanan and Barad",Lamp 254,Home,Lamp,4859,8547.52,1860997,0.59,12.44,A
+404,404,Hyderabad,390,27,2026-05-21,Virk-Kamdar,Jacket 404,Clothing,Jacket,4689,9341.95,1828710,0.58,13.02,A
+5,5,Hyderabad,391,25,2026-07-05,Bora Group,Football 5,Sports,Football,4503,7217.95,1760673,0.56,13.58,A
+248,248,Mumbai,429,66,2026-05-10,"Mandal, Kapadia and Mallick",Headphones 248,Electronics,Headphones,4088,6767.75,1753752,0.55,14.13,A
+31,31,Delhi,385,75,2026-07-06,Agrawal-Dubey,Helmet 31,Sports,Helmet,4545,7441.84,1749825,0.55,14.68,A
+234,234,Bengaluru,473,42,2026-07-20,Mahajan Group,Chair 234,Home,Chair,3688,5259.15,1744424,0.55,15.23,A
+273,273,Bengaluru,480,60,2026-05-11,Raja Ltd,Jeans 273,Clothing,Jeans,3533,6136.22,1695840,0.54,15.77,A
+246,246,Hyderabad,356,20,2026-06-22,Manne and Sons,Jacket 246,Clothing,Jacket,4745,6986.42,1689220,0.53,16.3,A
+429,429,Mumbai,465,42,2026-05-18,Sani and Sons,Jeans 429,Clothing,Jeans,3622,6971.44,1684230,0.53,16.83,A
+349,349,Bengaluru,346,28,2026-06-18,Palan-Naik,Lamp 349,Home,Lamp,4816,7248.22,1666336,0.53,17.36,A
+316,316,Bengaluru,430,36,2026-06-18,"Mital, Mahajan and Lad",Gloves 316,Sports,Gloves,3872,7601.66,1664960,0.53,17.88,A
+306,306,Delhi,428,23,2026-05-13,Devan-Sharma,Gloves 306,Sports,Gloves,3865,5738.32,1654220,0.52,18.41,A
+35,35,Bengaluru,462,54,2026-06-02,Chopra Ltd,Football 35,Sports,Football,3580,4359.17,1653960,0.52,18.93,A
+17,17,Mumbai,497,36,2026-06-19,Sahni-Dhar,Shoes 17,Clothing,Shoes,3312,5507.45,1646064,0.52,19.45,A
+324,324,Hyderabad,431,71,2026-06-24,"Goswami, Varughese and Guha",Cricket Bat 324,Sports,Cricket Bat,3816,5158.54,1644696,0.52,19.97,A
+284,284,Hyderabad,343,68,2026-05-05,"Boase, Chad and Kaur",Tablet 284,Electronics,Tablet,4761,8568.37,1633023,0.52,20.48,A
+292,292,Mumbai,351,51,2026-05-08,Narayan-Chakraborty,Phone 292,Electronics,Phone,4615,6327.17,1619865,0.51,20.99,A
+83,83,Hyderabad,478,46,2026-05-09,"Maharaj, Bahri and Padmanabhan",Helmet 83,Sports,Helmet,3386,4427.09,1618508,0.51,21.51,A
+249,249,Delhi,479,57,2026-05-27,Sarraf-Mahal,Laptop 249,Electronics,Laptop,3358,5564.05,1608482,0.51,22.01,A
+374,374,Mumbai,369,76,2026-07-06,"Rastogi, Buch and Kara",Lamp 374,Home,Lamp,4352,7514.29,1605888,0.51,22.52,A
+200,200,Mumbai,455,31,2026-06-09,Soni Inc,Shoes 200,Clothing,Shoes,3484,5833.88,1585220,0.5,23.02,A
+149,149,Hyderabad,427,28,2026-04-25,Rout PLC,Headphones 149,Electronics,Headphones,3645,7209.65,1556415,0.49,23.51,A
+14,14,Delhi,312,23,2026-05-15,Bassi Inc,Tablet 14,Electronics,Tablet,4979,7580.94,1553448,0.49,24.0,A
+415,415,Delhi,458,65,2026-06-25,Natt LLC,Tablet 415,Electronics,Tablet,3371,4663.41,1543918,0.49,24.49,A
+270,270,Delhi,324,79,2026-06-23,"Kar, Wadhwa and Sarna",Helmet 270,Sports,Helmet,4733,8938.57,1533492,0.48,24.97,A
+117,117,Bengaluru,423,55,2026-06-07,Dyal-Nigam,Chair 117,Home,Chair,3581,5286.53,1514763,0.48,25.45,A
+47,47,Mumbai,348,55,2026-06-30,"Karnik, Dar and Krishna",Football 47,Sports,Football,4325,5628.65,1505100,0.48,25.93,A
+138,138,Hyderabad,352,41,2026-06-14,Sarraf-Joshi,Laptop 138,Electronics,Laptop,4260,7979.07,1499520,0.47,26.4,A
+372,372,Mumbai,491,30,2026-04-28,"Sur, Sharma and Kulkarni",Laptop 372,Electronics,Laptop,3025,5603.0,1485275,0.47,26.87,A
+220,220,Bengaluru,327,50,2026-05-18,Prabhakar-Maharaj,Laptop 220,Electronics,Laptop,4530,8831.39,1481310,0.47,27.34,A
+391,391,Hyderabad,410,28,2026-07-14,Tandon Inc,Shoes 391,Clothing,Shoes,3596,4565.79,1474360,0.47,27.8,A
+256,256,Bengaluru,461,69,2026-05-02,"Ghose, Bahl and Jhaveri",Gloves 256,Sports,Gloves,3188,5760.75,1469668,0.46,28.27,A
+434,434,Bengaluru,392,35,2026-06-28,Iyengar-Chakrabarti,Jeans 434,Clothing,Jeans,3686,6345.92,1444912,0.46,28.72,A
+98,98,Bengaluru,463,57,2026-06-22,"Sen, Dhar and Varma",Table 98,Home,Table,3118,6194.6,1443634,0.46,29.18,A
+280,280,Mumbai,478,67,2026-07-07,Menon Group,Shirt 280,Clothing,Shirt,2988,5753.46,1428264,0.45,29.63,A
+453,453,Hyderabad,381,20,2026-07-15,Vaidya-Tella,Shoes 453,Clothing,Shoes,3715,4693.02,1415415,0.45,30.08,A
+190,190,Hyderabad,345,62,2026-05-01,"Chopra, Sandhu and Bora",Chair 190,Home,Chair,4044,5066.04,1395180,0.44,30.52,A
+379,379,Delhi,285,78,2026-07-15,"Mander, Nori and Patil",Table 379,Home,Table,4799,8416.68,1367715,0.43,30.95,A
+103,103,Hyderabad,474,74,2026-05-10,"Bassi, Balay and Bal",Fan 103,Home,Fan,2873,5147.88,1361802,0.43,31.38,A
+132,132,Mumbai,409,50,2026-06-05,Gala PLC,Football 132,Sports,Football,3310,6408.03,1353790,0.43,31.8,A
+245,245,Bengaluru,461,24,2026-05-13,Lad PLC,Jacket 245,Clothing,Jacket,2935,5306.4,1353035,0.43,32.23,A
+342,342,Bengaluru,431,59,2026-05-19,Ranganathan PLC,Shoes 342,Clothing,Shoes,3136,5178.96,1351616,0.43,32.66,A
+360,360,Mumbai,302,38,2026-07-13,Malhotra Ltd,Headphones 360,Electronics,Headphones,4448,8262.43,1343296,0.42,33.08,A
+459,459,Delhi,497,44,2026-05-21,Puri and Sons,Shirt 459,Clothing,Shirt,2672,4519.06,1327984,0.42,33.5,A
+498,498,Hyderabad,359,32,2026-05-19,Dayal-Bhatnagar,Headphones 498,Electronics,Headphones,3689,7051.21,1324351,0.42,33.92,A
+96,96,Mumbai,455,60,2026-06-09,Mital-Toor,Shoes 96,Clothing,Shoes,2902,4011.67,1320410,0.42,34.34,A
+76,76,Hyderabad,385,72,2026-05-03,Vala-Barad,Lamp 76,Home,Lamp,3413,6487.12,1314005,0.41,34.75,A
+154,154,Bengaluru,333,33,2026-06-18,Seshadri-Tara,Helmet 154,Sports,Helmet,3945,4866.42,1313685,0.41,35.17,A
+173,173,Mumbai,351,23,2026-05-10,Bhatti Inc,Cricket Bat 173,Sports,Cricket Bat,3669,5184.36,1287819,0.41,35.57,A
+203,203,Mumbai,296,42,2026-06-14,Mishra-Babu,Football 203,Sports,Football,4316,8375.44,1277536,0.4,35.98,A
+310,310,Mumbai,261,64,2026-06-24,Pingle-Raman,Phone 310,Electronics,Phone,4868,8758.79,1270548,0.4,36.38,A
+84,84,Mumbai,385,22,2026-05-29,Sankar-Merchant,Chair 84,Home,Chair,3296,4028.37,1268960,0.4,36.78,A
+113,113,Mumbai,277,74,2026-06-09,Brahmbhatt Inc,Jacket 113,Clothing,Jacket,4567,7318.31,1265059,0.4,37.18,A
+351,351,Bengaluru,330,50,2026-06-27,Lal-Kannan,Shirt 351,Clothing,Shirt,3812,7227.9,1257960,0.4,37.57,A
+380,380,Delhi,374,34,2026-05-02,Tiwari-Dalal,Phone 380,Electronics,Phone,3360,5454.18,1256640,0.4,37.97,A
+445,445,Delhi,481,40,2026-05-29,Uppal PLC,Gloves 445,Sports,Gloves,2608,3774.69,1254448,0.4,38.37,A
+271,271,Hyderabad,252,54,2026-07-02,Gokhale LLC,Phone 271,Electronics,Phone,4961,8877.99,1250172,0.39,38.76,A
+158,158,Mumbai,380,22,2026-06-05,Srinivasan LLC,Cricket Bat 158,Sports,Cricket Bat,3281,5530.28,1246780,0.39,39.15,A
+110,110,Delhi,273,44,2026-06-23,"Loke, Sama and Kalla",Chair 110,Home,Chair,4547,5677.49,1241331,0.39,39.55,A
+300,300,Mumbai,334,42,2026-06-11,"Din, Boase and Peri",Jeans 300,Clothing,Jeans,3695,5906.17,1234130,0.39,39.94,A
+487,487,Hyderabad,441,46,2026-06-22,Loyal-Minhas,Jacket 487,Clothing,Jacket,2780,4217.92,1225980,0.39,40.32,A
+407,407,Bengaluru,385,77,2026-05-06,Aurora-Chada,Table 407,Home,Table,3144,5423.0,1210440,0.38,40.71,A
+424,424,Hyderabad,301,32,2026-07-14,Rao Ltd,Shirt 424,Clothing,Shirt,4008,7385.71,1206408,0.38,41.09,A
+9,9,Hyderabad,252,53,2026-05-25,Saran LLC,Table 9,Home,Table,4778,9490.47,1204056,0.38,41.47,A
+323,323,Hyderabad,464,25,2026-05-19,Bains PLC,Chair 323,Home,Chair,2576,4425.0,1195264,0.38,41.84,A
+276,276,Delhi,238,38,2026-05-03,Pingle PLC,Football 276,Sports,Football,4981,6479.61,1185478,0.37,42.22,A
+470,470,Delhi,246,22,2026-06-30,"Issac, Arora and Narasimhan",Cricket Bat 470,Sports,Cricket Bat,4815,8355.02,1184490,0.37,42.59,A
+196,196,Delhi,303,29,2026-05-22,Biswas-Mitter,Laptop 196,Electronics,Laptop,3887,4884.81,1177761,0.37,42.96,A
+97,97,Delhi,264,77,2026-05-21,Singh LLC,Fan 97,Home,Fan,4460,5523.6,1177440,0.37,43.33,A
+478,478,Delhi,492,23,2026-05-17,Tandon-Mahal,Tablet 478,Electronics,Tablet,2378,3931.66,1169976,0.37,43.7,A
+464,464,Bengaluru,346,34,2026-06-03,Sabharwal-Sidhu,Chair 464,Home,Chair,3340,5529.4,1155640,0.36,44.07,A
+309,309,Bengaluru,447,72,2026-05-19,Date-Kohli,Headphones 309,Electronics,Headphones,2545,3823.85,1137615,0.36,44.43,A
+467,467,Mumbai,499,59,2026-06-29,"Joshi, Raja and Vyas",Fan 467,Home,Fan,2261,2744.27,1128239,0.36,44.78,A
+348,348,Delhi,331,27,2026-05-06,Kanda-Lall,Table 348,Home,Table,3369,5648.99,1115139,0.35,45.14,A
+189,189,Delhi,245,36,2026-06-26,Verma-Ramesh,Headphones 189,Electronics,Headphones,4542,8808.56,1112790,0.35,45.49,A
+462,462,Hyderabad,446,71,2026-04-22,Bir Ltd,Lamp 462,Home,Lamp,2493,4478.08,1111878,0.35,45.84,A
+156,156,Mumbai,242,26,2026-06-16,"Hari, Dada and Krishna",Gloves 156,Sports,Gloves,4591,6252.22,1111022,0.35,46.19,A
+66,66,Mumbai,435,55,2026-07-09,"Nagy, Sha and Pillay",Table 66,Home,Table,2547,4137.05,1107945,0.35,46.54,A
+142,142,Bengaluru,408,80,2026-05-15,Agrawal-Thakur,Jacket 142,Clothing,Jacket,2715,4669.53,1107720,0.35,46.89,A
+50,50,Hyderabad,472,31,2026-06-12,"Biswas, Prasad and Batra",Shirt 50,Clothing,Shirt,2324,2936.83,1096928,0.35,47.23,A
+359,359,Bengaluru,245,38,2026-07-03,Chakraborty Group,Laptop 359,Electronics,Laptop,4475,7681.31,1096375,0.35,47.58,A
+18,18,Delhi,475,32,2026-06-30,Chana Group,Football 18,Sports,Football,2288,2824.55,1086800,0.34,47.92,A
+210,210,Bengaluru,465,78,2026-05-06,Pandya Group,Headphones 210,Electronics,Headphones,2336,4632.78,1086240,0.34,48.27,A
+216,216,Bengaluru,457,42,2026-06-07,Yohannan-Dhingra,Gloves 216,Sports,Gloves,2366,4173.03,1081262,0.34,48.61,A
+460,460,Bengaluru,364,22,2026-05-19,Arya-Garg,Fan 460,Home,Fan,2956,5728.97,1075984,0.34,48.95,A
+157,157,Mumbai,240,61,2026-07-19,Dugal-Bhakta,Shoes 157,Clothing,Shoes,4476,7969.48,1074240,0.34,49.29,A
+423,423,Bengaluru,234,22,2026-05-04,Banik-Dugar,Fan 423,Home,Fan,4582,7318.92,1072188,0.34,49.63,A
+72,72,Delhi,370,80,2026-06-07,Dhingra-Tailor,Gloves 72,Sports,Gloves,2884,4700.96,1067080,0.34,49.96,A
+395,395,Hyderabad,329,68,2026-05-25,Mital Inc,Jeans 395,Clothing,Jeans,3222,3965.83,1060038,0.33,50.3,A
+150,150,Bengaluru,460,70,2026-05-15,"Sandal, Sekhon and Andra",Gloves 150,Sports,Gloves,2300,2929.33,1058000,0.33,50.63,A
+58,58,Mumbai,498,59,2026-05-13,Butala-Maharaj,Helmet 58,Sports,Helmet,2118,3722.58,1054764,0.33,50.96,A
+73,73,Bengaluru,400,50,2026-05-02,Kadakia Inc,Headphones 73,Electronics,Headphones,2627,4766.44,1050800,0.33,51.3,A
+430,430,Bengaluru,235,51,2026-04-26,Ghosh PLC,Gloves 430,Sports,Gloves,4457,7368.42,1047395,0.33,51.63,A
+86,86,Hyderabad,328,78,2026-06-22,"Minhas, Pillay and Nazareth",Laptop 86,Electronics,Laptop,3151,6076.94,1033528,0.33,51.95,A
+159,159,Hyderabad,228,72,2026-07-03,Rattan-Kohli,Phone 159,Electronics,Phone,4523,6995.99,1031244,0.33,52.28,A
+53,53,Hyderabad,454,50,2026-05-04,Chad Group,Gloves 53,Sports,Gloves,2271,3717.02,1031034,0.33,52.6,A
+250,250,Bengaluru,223,25,2026-07-17,Kar-Thaman,Laptop 250,Electronics,Laptop,4578,6910.43,1020894,0.32,52.93,A
+48,48,Bengaluru,222,79,2026-06-28,Bhardwaj-Modi,Chair 48,Home,Chair,4578,7475.11,1016316,0.32,53.25,A
+474,474,Bengaluru,395,66,2026-05-11,Salvi LLC,Helmet 474,Sports,Helmet,2568,4928.99,1014360,0.32,53.57,A
+163,163,Hyderabad,315,49,2026-06-19,"Bajwa, Kant and Karan",Headphones 163,Electronics,Headphones,3188,3885.21,1004220,0.32,53.88,A
+370,370,Mumbai,292,39,2026-05-11,Chaudhary-More,Helmet 370,Sports,Helmet,3431,4634.05,1001852,0.32,54.2,A
+3,3,Mumbai,320,31,2026-06-29,Banerjee-Sandal,Phone 3,Electronics,Phone,3125,5460.87,1000000,0.32,54.52,A
+225,225,Hyderabad,304,31,2026-05-28,"Chand, Sinha and Aggarwal",Fan 225,Home,Fan,3287,4086.35,999248,0.32,54.83,A
+64,64,Mumbai,316,79,2026-07-15,Vala PLC,Lamp 64,Home,Lamp,3150,5290.72,995400,0.31,55.15,A
+128,128,Hyderabad,457,55,2026-05-21,Dutt-Wali,Headphones 128,Electronics,Headphones,2169,2906.51,991233,0.31,55.46,A
+176,176,Mumbai,427,57,2026-05-09,"Pillai, Devan and Dixit",Lamp 176,Home,Lamp,2282,4411.1,974414,0.31,55.77,A
+119,119,Delhi,434,22,2026-07-14,Lanka-Solanki,Lamp 119,Home,Lamp,2245,3461.79,974330,0.31,56.07,A
+356,356,Hyderabad,361,50,2026-07-09,"Taneja, Jain and Lad",Tablet 356,Electronics,Tablet,2694,5142.59,972534,0.31,56.38,A
+425,425,Bengaluru,441,26,2026-04-25,Soni-Dubey,Shirt 425,Clothing,Shirt,2177,2906.26,960057,0.3,56.68,A
+491,491,Mumbai,449,66,2026-05-03,"De, Mukherjee and Gupta",Shirt 491,Clothing,Shirt,2137,2897.61,959513,0.3,56.99,A
+466,466,Hyderabad,491,72,2026-07-15,Gaba LLC,Helmet 466,Sports,Helmet,1954,3243.51,959414,0.3,57.29,A
+215,215,Bengaluru,340,29,2026-05-06,"Roy, Yadav and Tandon",Shirt 215,Clothing,Shirt,2810,4122.82,955400,0.3,57.59,A
+32,32,Bengaluru,417,68,2026-05-16,Wable-Munshi,Phone 32,Electronics,Phone,2278,3707.9,949926,0.3,57.89,A
+178,178,Hyderabad,256,29,2026-07-05,Sood and Sons,Tablet 178,Electronics,Tablet,3664,6681.68,937984,0.3,58.19,A
+51,51,Mumbai,216,58,2026-05-08,Gaba Ltd,Fan 51,Home,Fan,4335,8142.14,936360,0.3,58.48,A
+251,251,Hyderabad,413,35,2026-06-25,Cherian and Sons,Gloves 251,Sports,Gloves,2252,2781.83,930076,0.29,58.78,A
+233,233,Mumbai,250,44,2026-07-01,Chaudhari PLC,Lamp 233,Home,Lamp,3705,6324.34,926250,0.29,59.07,A
+69,69,Delhi,221,79,2026-06-14,Sengupta-Bajaj,Gloves 69,Sports,Gloves,4175,6380.94,922675,0.29,59.36,A
+389,389,Mumbai,375,32,2026-05-11,"Pai, Raman and Loke",Shirt 389,Clothing,Shirt,2453,3657.11,919875,0.29,59.65,A
+41,41,Hyderabad,196,67,2026-04-26,Baral Ltd,Lamp 41,Home,Lamp,4657,7492.34,912772,0.29,59.94,A
+301,301,Bengaluru,433,33,2026-06-19,Gour-Kaur,Shirt 301,Clothing,Shirt,2096,3140.53,907568,0.29,60.22,A
+465,465,Delhi,403,46,2026-07-05,Bath LLC,Jeans 465,Clothing,Jeans,2217,3149.54,893451,0.28,60.51,A
+219,219,Hyderabad,189,65,2026-05-19,Andra PLC,Jeans 219,Clothing,Jeans,4724,6359.53,892836,0.28,60.79,A
+194,194,Hyderabad,289,63,2026-07-06,Peri LLC,Laptop 194,Electronics,Laptop,3071,4243.91,887519,0.28,61.07,A
+294,294,Mumbai,405,58,2026-06-20,"Varkey, Pingle and Dada",Shirt 294,Clothing,Shirt,2164,2750.32,876420,0.28,61.34,A
+49,49,Bengaluru,223,70,2026-05-05,Nori Group,Headphones 49,Electronics,Headphones,3882,7246.38,865686,0.27,61.62,A
+403,403,Mumbai,346,43,2026-04-27,D’Alia-Kanda,Laptop 403,Electronics,Laptop,2492,3496.29,862232,0.27,61.89,A
+54,54,Bengaluru,187,71,2026-07-17,"Rajagopalan, Seth and Narula",Shoes 54,Clothing,Shoes,4601,7142.03,860387,0.27,62.16,A
+257,257,Hyderabad,308,69,2026-06-15,Krish-Munshi,Jacket 257,Clothing,Jacket,2787,3362.35,858396,0.27,62.43,A
+392,392,Hyderabad,217,51,2026-07-09,Morar-Nadig,Chair 392,Home,Chair,3946,5988.75,856282,0.27,62.7,A
+428,428,Bengaluru,326,42,2026-07-08,Khare LLC,Phone 428,Electronics,Phone,2618,3295.1,853468,0.27,62.97,A
+364,364,Bengaluru,234,26,2026-07-11,Varughese-Sarna,Table 364,Home,Table,3646,6968.76,853164,0.27,63.24,A
+8,8,Delhi,224,27,2026-05-13,Dhar-Dayal,Shirt 8,Clothing,Shirt,3796,7430.45,850304,0.27,63.51,A
+100,100,Bengaluru,391,79,2026-05-20,Patil-Shetty,Jacket 100,Clothing,Jacket,2174,3238.44,850034,0.27,63.78,A
+490,490,Delhi,246,79,2026-05-17,Minhas-Shan,Jeans 490,Clothing,Jeans,3437,4557.66,845502,0.27,64.05,A
+421,421,Mumbai,234,49,2026-06-20,Jaggi-Bedi,Lamp 421,Home,Lamp,3608,5113.6,844272,0.27,64.31,A
+362,362,Mumbai,178,67,2026-06-07,Dixit-Ranganathan,Football 362,Sports,Football,4662,6641.86,829836,0.26,64.57,A
+202,202,Delhi,209,74,2026-06-09,Iyer Inc,Lamp 202,Home,Lamp,3968,7193.16,829312,0.26,64.84,A
+79,79,Delhi,419,50,2026-05-21,Rajagopalan-Balay,Lamp 79,Home,Lamp,1975,3832.06,827525,0.26,65.1,A
+33,33,Mumbai,225,67,2026-07-06,Mittal-Handa,Shirt 33,Clothing,Shirt,3670,4807.58,825750,0.26,65.36,A
+357,357,Mumbai,216,50,2026-05-22,Samra and Sons,Shirt 357,Clothing,Shirt,3809,6297.26,822744,0.26,65.62,A
+102,102,Mumbai,315,67,2026-06-07,"Parmar, Sangha and Dara",Helmet 102,Sports,Helmet,2602,4481.31,819630,0.26,65.88,A
+352,352,Delhi,392,65,2026-04-26,"Dalal, Prabhu and Bala",Table 352,Home,Table,2062,3081.36,808304,0.26,66.13,A
+265,265,Bengaluru,384,40,2026-06-28,Jha PLC,Tablet 265,Electronics,Tablet,2101,2530.64,806784,0.25,66.39,A
+165,165,Mumbai,265,60,2026-06-16,Bandi LLC,Shoes 165,Clothing,Shoes,3036,4747.22,804540,0.25,66.64,A
+347,347,Delhi,308,27,2026-05-10,Balasubramanian Ltd,Tablet 347,Electronics,Tablet,2609,4191.19,803572,0.25,66.89,A
+111,111,Mumbai,377,68,2026-07-12,Majumdar Group,Headphones 111,Electronics,Headphones,2122,3949.81,799994,0.25,67.15,A
+147,147,Hyderabad,335,47,2026-05-29,Walla Inc,Tablet 147,Electronics,Tablet,2385,4662.12,798975,0.25,67.4,A
+398,398,Mumbai,193,47,2026-07-07,Murty-Bala,Shirt 398,Clothing,Shirt,4138,7171.06,798634,0.25,67.65,A
+322,322,Delhi,411,28,2026-07-20,Bandi-Naidu,Table 322,Home,Table,1940,3208.84,797340,0.25,67.9,A
+461,461,Hyderabad,373,31,2026-05-31,"Saini, Varty and Dani",Gloves 461,Sports,Gloves,2131,3066.15,794863,0.25,68.15,A
+62,62,Delhi,223,53,2026-06-11,Loyal Inc,Cricket Bat 62,Sports,Cricket Bat,3550,5152.86,791650,0.25,68.4,A
+365,365,Mumbai,345,34,2026-07-06,Savant-Pandit,Helmet 365,Sports,Helmet,2287,4288.84,789015,0.25,68.65,A
+382,382,Mumbai,452,20,2026-04-27,Reddy PLC,Shirt 382,Clothing,Shirt,1722,2587.25,778344,0.25,68.9,A
+218,218,Hyderabad,250,35,2026-05-26,Shanker-Kannan,Chair 218,Home,Chair,3083,6069.62,770750,0.24,69.14,A
+489,489,Hyderabad,431,61,2026-06-12,"Nayar, Sodhi and Basu",Chair 489,Home,Chair,1776,2552.64,765456,0.24,69.38,A
+293,293,Mumbai,383,31,2026-04-30,Handa LLC,Table 293,Home,Table,1973,2581.11,755659,0.24,69.62,A
+332,332,Mumbai,424,29,2026-05-17,"Sekhon, Sura and Ganguly",Table 332,Home,Table,1746,2877.0,740304,0.23,69.85,A
+123,123,Hyderabad,164,24,2026-05-19,"Brahmbhatt, Shan and Mani",Helmet 123,Sports,Helmet,4514,8072.26,740296,0.23,70.09,A
+39,39,Bengaluru,215,52,2026-06-08,Murty-Vig,Shoes 39,Clothing,Shoes,3439,6587.59,739385,0.23,70.32,A
+153,153,Hyderabad,162,37,2026-06-16,"Bandi, Pandit and Dhaliwal",Headphones 153,Electronics,Headphones,4537,6620.14,734994,0.23,70.55,A
+363,363,Delhi,239,77,2026-07-12,More-Sharaf,Jeans 363,Clothing,Jeans,3071,5689.08,733969,0.23,70.79,A
+37,37,Mumbai,241,25,2026-07-17,"Viswanathan, Bahri and Bava",Phone 37,Electronics,Phone,3030,5238.7,730230,0.23,71.02,A
+68,68,Mumbai,308,60,2026-06-03,Kapadia-Mane,Gloves 68,Sports,Gloves,2344,4285.8,721952,0.23,71.24,A
+313,313,Mumbai,406,72,2026-05-18,Halder-Kant,Shirt 313,Clothing,Shirt,1763,3439.8,715778,0.23,71.47,A
+193,193,Hyderabad,267,36,2026-05-31,"Agate, Barman and Korpal",Laptop 193,Electronics,Laptop,2680,3614.63,715560,0.23,71.7,A
+184,184,Delhi,180,29,2026-05-13,Khalsa-Raju,Jacket 184,Clothing,Jacket,3950,7874.34,711000,0.22,71.92,A
+105,105,Delhi,188,46,2026-04-22,Dalal Ltd,Jeans 105,Clothing,Jeans,3765,5377.82,707820,0.22,72.14,A
+168,168,Bengaluru,182,54,2026-05-18,Arya Ltd,Shirt 168,Clothing,Shirt,3876,5771.23,705432,0.22,72.37,A
+439,439,Mumbai,443,41,2026-07-19,"Bajwa, Bhalla and Balan",Tablet 439,Electronics,Tablet,1588,2201.83,703484,0.22,72.59,A
+162,162,Hyderabad,226,25,2026-05-14,Memon-Tank,Cricket Bat 162,Sports,Cricket Bat,3073,4802.57,694498,0.22,72.81,A
+88,88,Delhi,174,62,2026-04-29,Datta Ltd,Laptop 88,Electronics,Laptop,3987,6662.47,693738,0.22,73.03,A
+473,473,Delhi,172,55,2026-05-10,"Kala, Divan and Prashad",Shirt 473,Clothing,Shirt,4021,7275.38,691612,0.22,73.24,A
+52,52,Bengaluru,249,26,2026-07-07,Sachdeva Ltd,Phone 52,Electronics,Phone,2774,4710.36,690726,0.22,73.46,A
+144,144,Delhi,256,30,2026-04-24,Deep Inc,Jeans 144,Clothing,Jeans,2679,3877.76,685824,0.22,73.68,A
+155,155,Delhi,145,21,2026-04-26,Sekhon Ltd,Tablet 155,Electronics,Tablet,4701,8500.19,681645,0.22,73.89,A
+408,408,Hyderabad,168,78,2026-04-28,Buch-Jhaveri,Cricket Bat 408,Sports,Cricket Bat,4022,7607.99,675696,0.21,74.11,A
+167,167,Delhi,141,72,2026-07-06,Natarajan-Oommen,Laptop 167,Electronics,Laptop,4782,7148.3,674262,0.21,74.32,A
+177,177,Delhi,269,21,2026-04-25,Kata Group,Tablet 177,Electronics,Tablet,2505,3753.19,673845,0.21,74.53,A
+418,418,Delhi,439,20,2026-06-01,Rattan Ltd,Chair 418,Home,Chair,1527,2976.77,670353,0.21,74.75,A
+22,22,Mumbai,274,50,2026-07-15,Ramaswamy-Kunda,Shoes 22,Clothing,Shoes,2427,4221.41,664998,0.21,74.96,A
+437,437,Bengaluru,376,32,2026-05-02,Yohannan-Desai,Jacket 437,Clothing,Jacket,1763,2278.2,662888,0.21,75.16,A
+169,169,Delhi,171,65,2026-07-18,Sidhu-Bakshi,Chair 169,Home,Chair,3872,6153.87,662112,0.21,75.37,A
+337,337,Mumbai,193,72,2026-06-17,Ramachandran PLC,Fan 337,Home,Fan,3423,4184.25,660639,0.21,75.58,A
+185,185,Mumbai,275,27,2026-07-05,"Devi, Virk and Murthy",Jacket 185,Clothing,Jacket,2393,2881.28,658075,0.21,75.79,A
+500,500,Hyderabad,363,35,2026-05-13,Pal-Dugar,Tablet 500,Electronics,Tablet,1802,3375.47,654126,0.21,76.0,A
+305,305,Mumbai,131,64,2026-05-28,Ben LLC,Tablet 305,Electronics,Tablet,4973,6885.85,651463,0.21,76.2,A
+387,387,Bengaluru,483,27,2026-04-29,Tandon Inc,Jeans 387,Clothing,Jeans,1335,2285.45,644805,0.2,76.41,A
+209,209,Bengaluru,476,71,2026-07-17,Morar-Parsa,Jacket 209,Clothing,Jacket,1340,2058.97,637840,0.2,76.61,A
+279,279,Hyderabad,431,37,2026-06-13,Deo PLC,Shoes 279,Clothing,Shoes,1478,1890.63,637018,0.2,76.81,A
+259,259,Delhi,239,60,2026-06-27,Kunda-Guha,Shoes 259,Clothing,Shoes,2664,3740.48,636696,0.2,77.01,A
+458,458,Delhi,353,76,2026-07-06,Krish Group,Gloves 458,Sports,Gloves,1790,2758.84,631870,0.2,77.21,A
+381,381,Mumbai,436,30,2026-05-27,Saran-Dara,Headphones 381,Electronics,Headphones,1447,2788.0,630892,0.2,77.41,A
+74,74,Mumbai,148,78,2026-05-11,Chana-Nanda,Jeans 74,Clothing,Jeans,4248,7834.21,628704,0.2,77.61,A
+239,239,Hyderabad,240,34,2026-04-28,"Wali, Bhandari and Dora",Table 239,Home,Table,2590,4709.37,621600,0.2,77.8,A
+486,486,Hyderabad,202,20,2026-07-16,Sodhi-Setty,Tablet 486,Electronics,Tablet,3053,5013.15,616706,0.19,78.0,A
+475,475,Hyderabad,251,50,2026-07-17,"Sura, Kalita and Hari",Table 475,Home,Table,2451,4177.09,615201,0.19,78.19,A
+397,397,Delhi,132,78,2026-06-08,Sandal-Nagar,Tablet 397,Electronics,Tablet,4635,6386.15,611820,0.19,78.38,A
+414,414,Bengaluru,187,70,2026-05-21,Bhasin Ltd,Phone 414,Electronics,Phone,3256,4361.78,608872,0.19,78.58,A
+15,15,Delhi,142,25,2026-05-25,"Chacko, Uppal and Rana",Phone 15,Electronics,Phone,4285,8196.31,608470,0.19,78.77,A
+228,228,Mumbai,391,39,2026-07-13,Agate LLC,Chair 228,Home,Chair,1551,3099.78,606441,0.19,78.96,A
+468,468,Bengaluru,311,79,2026-07-16,Chatterjee LLC,Jeans 468,Clothing,Jeans,1939,2400.86,603029,0.19,79.15,A
+92,92,Hyderabad,489,51,2026-06-30,Bhandari LLC,Fan 92,Home,Fan,1205,2404.42,589245,0.19,79.34,A
+12,12,Mumbai,216,20,2026-06-02,Sood-Tella,Gloves 12,Sports,Gloves,2723,4298.58,588168,0.19,79.52,A
+61,61,Mumbai,115,20,2026-05-14,"Garde, Guha and Rastogi",Phone 61,Electronics,Phone,4982,8121.93,572930,0.18,79.7,A
+212,212,Delhi,224,48,2026-07-05,"Sha, Wadhwa and Mall",Jacket 212,Clothing,Jacket,2554,4966.91,572096,0.18,79.88,A
+26,26,Hyderabad,124,29,2026-05-28,"Bhatti, Keer and Mukhopadhyay",Gloves 26,Sports,Gloves,4579,6405.67,567796,0.18,80.06,B
+241,241,Delhi,498,48,2026-06-04,Salvi Group,Lamp 241,Home,Lamp,1132,2207.57,563736,0.18,80.24,B
+112,112,Hyderabad,331,74,2026-05-22,Kant-Rattan,Lamp 112,Home,Lamp,1692,2075.34,560052,0.18,80.42,B
+399,399,Bengaluru,125,28,2026-05-22,Dhar PLC,Helmet 399,Sports,Helmet,4475,8447.11,559375,0.18,80.59,B
+410,410,Mumbai,135,77,2026-06-02,Kunda Inc,Fan 410,Home,Fan,4128,5864.33,557280,0.18,80.77,B
+126,126,Delhi,237,67,2026-07-19,Dara Group,Football 126,Sports,Football,2346,4391.23,556002,0.18,80.95,B
+330,330,Mumbai,424,26,2026-05-24,Sekhon Group,Headphones 330,Electronics,Headphones,1308,2238.74,554592,0.18,81.12,B
+206,206,Bengaluru,408,46,2026-06-28,Kata-Sarkar,Chair 206,Home,Chair,1359,2013.27,554472,0.18,81.3,B
+262,262,Delhi,290,68,2026-04-25,Goda LLC,Jeans 262,Clothing,Jeans,1892,3465.05,548680,0.17,81.47,B
+179,179,Hyderabad,113,64,2026-04-22,Grewal-Butala,Shirt 179,Clothing,Shirt,4834,6348.15,546242,0.17,81.64,B
+483,483,Mumbai,329,33,2026-06-30,Memon Ltd,Fan 483,Home,Fan,1659,2429.79,545811,0.17,81.81,B
+114,114,Hyderabad,275,71,2026-06-08,Bhardwaj-Goyal,Jacket 114,Clothing,Jacket,1979,2898.88,544225,0.17,81.98,B
+317,317,Bengaluru,270,54,2026-04-22,"Mandal, Deshmukh and Deol",Headphones 317,Electronics,Headphones,2015,3547.09,544050,0.17,82.16,B
+455,455,Hyderabad,301,68,2026-05-13,Narain-Choudhry,Jacket 455,Clothing,Jacket,1786,2213.99,537586,0.17,82.33,B
+452,452,Hyderabad,228,24,2026-07-03,Baral LLC,Headphones 452,Electronics,Headphones,2331,3850.9,531468,0.17,82.49,B
+13,13,Hyderabad,318,24,2026-05-18,"Tella, Jha and Sachdev",Phone 13,Electronics,Phone,1647,2477.42,523746,0.17,82.66,B
+333,333,Mumbai,217,20,2026-05-28,"Narayanan, Pal and Gulati",Jeans 333,Clothing,Jeans,2407,4712.4,522319,0.16,82.82,B
+217,217,Hyderabad,137,42,2026-05-23,Dora-Dave,Helmet 217,Sports,Helmet,3778,6407.11,517586,0.16,82.99,B
+402,402,Hyderabad,410,49,2026-04-28,Wable Inc,Jeans 402,Clothing,Jeans,1260,2471.9,516600,0.16,83.15,B
+321,321,Hyderabad,156,72,2026-06-18,Gulati Ltd,Gloves 321,Sports,Gloves,3307,6560.29,515892,0.16,83.31,B
+36,36,Mumbai,201,22,2026-06-24,"Brahmbhatt, Acharya and Kata",Laptop 36,Electronics,Laptop,2556,3218.21,513756,0.16,83.48,B
+23,23,Bengaluru,160,59,2026-07-09,Borde Ltd,Jacket 23,Clothing,Jacket,3191,4733.0,510560,0.16,83.64,B
+174,174,Hyderabad,127,20,2026-06-19,Sama-Manne,Jeans 174,Clothing,Jeans,4011,5885.8,509397,0.16,83.8,B
+125,125,Mumbai,105,45,2026-06-19,Borah-Lal,Fan 125,Home,Fan,4841,8532.08,508305,0.16,83.96,B
+211,211,Mumbai,140,64,2026-05-22,Tata-Pandey,Football 211,Sports,Football,3616,5634.61,506240,0.16,84.12,B
+121,121,Hyderabad,109,70,2026-06-08,Bhardwaj Group,Shoes 121,Clothing,Shoes,4625,5946.47,504125,0.16,84.28,B
+307,307,Delhi,418,39,2026-05-13,Patla PLC,Phone 307,Electronics,Phone,1181,2142.72,493658,0.16,84.43,B
+471,471,Delhi,230,67,2026-07-16,Varghese-Srinivas,Chair 471,Home,Chair,2141,2839.3,492430,0.16,84.59,B
+183,183,Hyderabad,326,34,2026-04-22,Kala and Sons,Headphones 183,Electronics,Headphones,1506,2061.74,490956,0.15,84.74,B
+244,244,Bengaluru,171,65,2026-05-03,Dugar Group,Phone 244,Electronics,Phone,2859,5444.68,488889,0.15,84.9,B
+187,187,Bengaluru,216,72,2026-05-04,Mandal-Naidu,Jeans 187,Clothing,Jeans,2244,3980.1,484704,0.15,85.05,B
+146,146,Mumbai,141,29,2026-05-30,Verma-Yadav,Headphones 146,Electronics,Headphones,3411,6592.78,480951,0.15,85.2,B
+227,227,Bengaluru,179,76,2026-07-09,Nath-Radhakrishnan,Table 227,Home,Table,2681,4970.73,479899,0.15,85.35,B
+299,299,Hyderabad,361,76,2026-05-26,Ramakrishnan PLC,Tablet 299,Electronics,Tablet,1322,1818.03,477242,0.15,85.5,B
+492,492,Hyderabad,298,64,2026-05-17,Pai-Edwin,Helmet 492,Sports,Helmet,1600,2259.36,476800,0.15,85.66,B
+139,139,Delhi,431,38,2026-07-05,Balasubramanian-Pandya,Gloves 139,Sports,Gloves,1096,1325.02,472376,0.15,85.8,B
+40,40,Mumbai,218,55,2026-07-12,Kota Ltd,Table 40,Home,Table,2136,2638.03,465648,0.15,85.95,B
+78,78,Hyderabad,471,72,2026-04-28,Bobal-Hora,Chair 78,Home,Chair,988,1498.99,465348,0.15,86.1,B
+355,355,Delhi,330,79,2026-06-02,Patla PLC,Jeans 355,Clothing,Jeans,1389,2712.39,458370,0.14,86.24,B
+204,204,Hyderabad,173,57,2026-06-16,Puri-Andra,Cricket Bat 204,Sports,Cricket Bat,2646,4891.79,457758,0.14,86.39,B
+315,315,Bengaluru,98,36,2026-06-21,Dass-Andra,Fan 315,Home,Fan,4664,8898.16,457072,0.14,86.53,B
+377,377,Bengaluru,117,42,2026-05-03,Baria-Majumdar,Jacket 377,Clothing,Jacket,3893,6735.1,455481,0.14,86.68,B
+236,236,Hyderabad,91,66,2026-06-29,Mody-Shan,Shoes 236,Clothing,Shoes,4973,8158.68,452543,0.14,86.82,B
+499,499,Bengaluru,199,41,2026-05-27,"Hayre, Muni and Natarajan",Headphones 499,Electronics,Headphones,2258,3049.79,449342,0.14,86.96,B
+38,38,Bengaluru,129,41,2026-06-23,Chatterjee PLC,Jeans 38,Clothing,Jeans,3437,4421.25,443373,0.14,87.1,B
+134,134,Bengaluru,293,31,2026-04-23,Banerjee-Nagi,Phone 134,Electronics,Phone,1474,1940.62,431882,0.14,87.24,B
+99,99,Delhi,374,46,2026-06-11,"Sangha, Datta and Kalita",Jacket 99,Clothing,Jacket,1147,1489.64,428978,0.14,87.37,B
+186,186,Mumbai,98,24,2026-06-22,Madan Ltd,Headphones 186,Electronics,Headphones,4361,7507.72,427378,0.13,87.51,B
+269,269,Delhi,150,67,2026-04-22,"Bali, Wason and Dhawan",Fan 269,Home,Fan,2836,5114.41,425400,0.13,87.64,B
+34,34,Hyderabad,105,58,2026-06-12,Oommen-Gade,Fan 34,Home,Fan,4028,5321.27,422940,0.13,87.77,B
+405,405,Mumbai,269,24,2026-06-12,Dey-Kumer,Jeans 405,Clothing,Jeans,1563,2793.71,420447,0.13,87.91,B
+272,272,Mumbai,285,70,2026-05-01,"Sankaran, Dora and Chahal",Helmet 272,Sports,Helmet,1472,2231.84,419520,0.13,88.04,B
+152,152,Mumbai,216,40,2026-07-09,"Radhakrishnan, Kaul and Subramaniam",Laptop 152,Electronics,Laptop,1941,3861.47,419256,0.13,88.17,B
+45,45,Delhi,168,33,2026-05-26,Swamy-Kapoor,Phone 45,Electronics,Phone,2468,3501.8,414624,0.13,88.3,B
+24,24,Bengaluru,261,52,2026-04-28,Kala-Batra,Gloves 24,Sports,Gloves,1588,2277.64,414468,0.13,88.43,B
+223,223,Hyderabad,445,53,2026-06-24,Mall-Soman,Laptop 223,Electronics,Laptop,920,1444.55,409400,0.13,88.56,B
+130,130,Bengaluru,93,44,2026-06-21,Ray-Buch,Cricket Bat 130,Sports,Cricket Bat,4371,6068.58,406503,0.13,88.69,B
+264,264,Delhi,111,44,2026-06-03,Bahri PLC,Laptop 264,Electronics,Laptop,3555,6651.92,394605,0.12,88.82,B
+366,366,Hyderabad,386,21,2026-05-29,Devi-Rout,Football 366,Sports,Football,1021,1631.33,394106,0.12,88.94,B
+7,7,Bengaluru,152,44,2026-05-13,Andra Group,Helmet 7,Sports,Helmet,2591,4218.36,393832,0.12,89.06,B
+247,247,Delhi,120,73,2026-07-14,"Lad, Dalal and Rajan",Tablet 247,Electronics,Tablet,3277,4117.65,393240,0.12,89.19,B
+433,433,Delhi,197,59,2026-05-22,Minhas Inc,Gloves 433,Sports,Gloves,1995,2521.53,393015,0.12,89.31,B
+93,93,Mumbai,271,38,2026-06-27,Devi-Kapadia,Helmet 93,Sports,Helmet,1444,2470.5,391324,0.12,89.44,B
+369,369,Hyderabad,330,40,2026-07-08,"Sundaram, Krishna and Sengupta",Gloves 369,Sports,Gloves,1181,1962.64,389730,0.12,89.56,B
+435,435,Delhi,135,31,2026-07-18,Walla Group,Headphones 435,Electronics,Headphones,2878,5054.81,388530,0.12,89.68,B
+358,358,Delhi,196,55,2026-05-09,"Cherian, Barman and Rege",Shoes 358,Clothing,Shoes,1951,2503.91,382396,0.12,89.8,B
+341,341,Bengaluru,219,30,2026-04-26,Kaul-Khare,Lamp 341,Home,Lamp,1733,2579.39,379527,0.12,89.92,B
+16,16,Bengaluru,106,56,2026-06-10,"Balakrishnan, Murty and Sachdev",Table 16,Home,Table,3569,5880.82,378314,0.12,90.04,B
+327,327,Bengaluru,109,60,2026-06-13,Nagar-Panchal,Table 327,Home,Table,3466,6004.4,377794,0.12,90.16,B
+286,286,Mumbai,130,73,2026-04-30,"Patel, Lanka and Grewal",Laptop 286,Electronics,Laptop,2882,5573.02,374660,0.12,90.28,B
+85,85,Mumbai,154,62,2026-06-25,Jhaveri and Sons,Phone 85,Electronics,Phone,2401,4243.32,369754,0.12,90.4,B
+290,290,Delhi,415,30,2026-05-28,Cheema Ltd,Chair 290,Home,Chair,886,1768.76,367690,0.12,90.51,B
+80,80,Hyderabad,257,65,2026-05-13,Shankar Inc,Headphones 80,Electronics,Headphones,1412,2660.86,362884,0.11,90.63,B
+442,442,Hyderabad,155,76,2026-06-25,Garg Ltd,Gloves 442,Sports,Gloves,2330,4647.3,361150,0.11,90.74,B
+133,133,Hyderabad,238,52,2026-05-17,Randhawa-Chadha,Jeans 133,Clothing,Jeans,1512,2439.86,359856,0.11,90.85,B
+353,353,Bengaluru,214,73,2026-05-16,"Kanda, Luthra and Kapur",Tablet 353,Electronics,Tablet,1587,2392.95,339618,0.11,90.96,B
+90,90,Bengaluru,453,64,2026-05-26,Zacharia Group,Jeans 90,Clothing,Jeans,748,1001.06,338844,0.11,91.07,B
+476,476,Mumbai,116,69,2026-05-06,Pillai Inc,Helmet 476,Sports,Helmet,2858,4510.19,331528,0.1,91.17,B
+171,171,Bengaluru,465,21,2026-07-02,"Loyal, Pai and Gour",Cricket Bat 171,Sports,Cricket Bat,711,908.13,330615,0.1,91.28,B
+378,378,Bengaluru,92,31,2026-07-11,Sahota-Anne,Shirt 378,Clothing,Shirt,3585,4377.92,329820,0.1,91.38,B
+260,260,Delhi,133,20,2026-05-25,Sur Ltd,Cricket Bat 260,Sports,Cricket Bat,2441,3135.74,324653,0.1,91.48,B
+367,367,Hyderabad,73,51,2026-06-18,Zachariah-Basu,Shirt 367,Clothing,Shirt,4433,6776.89,323609,0.1,91.59,B
+213,213,Mumbai,209,27,2026-06-12,"Mandal, Khanna and Prashad",Jacket 213,Clothing,Jacket,1548,2251.31,323532,0.1,91.69,B
+172,172,Mumbai,378,40,2026-07-13,Sandhu-Suresh,Jacket 172,Clothing,Jacket,852,1437.19,322056,0.1,91.79,B
+494,494,Hyderabad,76,75,2026-05-23,Vala-Aggarwal,Gloves 494,Sports,Gloves,4232,7588.66,321632,0.1,91.89,B
+361,361,Hyderabad,296,56,2026-07-17,Mital-Varghese,Jeans 361,Clothing,Jeans,1085,1370.92,321160,0.1,91.99,B
+127,127,Mumbai,99,43,2026-06-06,"Khatri, Deshmukh and Maharaj",Jacket 127,Clothing,Jacket,3187,4417.31,315513,0.1,92.09,B
+312,312,Delhi,96,63,2026-06-20,Srinivasan-Mani,Chair 312,Home,Chair,3271,4950.68,314016,0.1,92.19,B
+335,335,Delhi,147,41,2026-05-06,"Karpe, Purohit and Bakshi",Jeans 335,Clothing,Jeans,2111,2973.54,310317,0.1,92.29,B
+419,419,Bengaluru,384,28,2026-07-19,Prashad LLC,Tablet 419,Electronics,Tablet,808,1246.34,310272,0.1,92.39,B
+232,232,Delhi,192,72,2026-05-02,"Rege, Kothari and Bhargava",Table 232,Home,Table,1599,3078.4,307008,0.1,92.48,B
+354,354,Hyderabad,135,26,2026-05-02,Kalita-Parmar,Chair 354,Home,Chair,2269,3903.89,306315,0.1,92.58,B
+457,457,Delhi,215,75,2026-05-29,"Singhal, Chauhan and Mander",Chair 457,Home,Chair,1423,2309.83,305945,0.1,92.68,B
+214,214,Mumbai,120,74,2026-06-19,Hari-Varty,Shoes 214,Clothing,Shoes,2540,3872.77,304800,0.1,92.77,B
+448,448,Hyderabad,174,33,2026-06-11,Das Ltd,Headphones 448,Electronics,Headphones,1749,2638.41,304326,0.1,92.87,B
+274,274,Delhi,240,77,2026-05-13,Mital and Sons,Shirt 274,Clothing,Shirt,1258,1970.1,301920,0.1,92.97,B
+400,400,Bengaluru,172,51,2026-06-11,"Chaudhari, Pandey and Sarma",Gloves 400,Sports,Gloves,1740,2539.44,299280,0.09,93.06,B
+59,59,Delhi,100,20,2026-06-01,Kari-Wali,Football 59,Sports,Football,2977,3842.45,297700,0.09,93.15,B
+328,328,Delhi,129,22,2026-07-09,"Chandran, Suresh and Chaudhari",Lamp 328,Home,Lamp,2283,3969.69,294507,0.09,93.25,B
+94,94,Mumbai,222,47,2026-05-10,Sani LLC,Football 94,Sports,Football,1306,2330.37,289932,0.09,93.34,B
+444,444,Bengaluru,228,43,2026-07-17,"Cherian, Goswami and More",Laptop 444,Electronics,Laptop,1249,1919.33,284772,0.09,93.43,B
+198,198,Hyderabad,351,48,2026-05-02,Randhawa-Zacharia,Helmet 198,Sports,Helmet,809,1538.56,283959,0.09,93.52,B
+222,222,Hyderabad,299,34,2026-05-13,"Bhagat, Mitra and Choudhary",Chair 222,Home,Chair,933,1783.51,278967,0.09,93.61,B
+201,201,Bengaluru,94,68,2026-06-08,Subramaniam-Dhar,Shoes 201,Clothing,Shoes,2923,3815.11,274762,0.09,93.69,B
+108,108,Bengaluru,181,59,2026-05-05,Palla-Dass,Shoes 108,Clothing,Shoes,1490,1824.6,269690,0.09,93.78,B
+55,55,Delhi,316,43,2026-05-13,"Lala, Krishnamurthy and Sastry",Helmet 55,Sports,Helmet,839,1226.5,265124,0.08,93.86,B
+95,95,Mumbai,148,24,2026-07-06,Dhar Inc,Shirt 95,Clothing,Shirt,1770,2872.73,261960,0.08,93.94,B
+137,137,Mumbai,68,33,2026-05-02,Mishra Group,Gloves 137,Sports,Gloves,3655,5495.37,248540,0.08,94.02,B
+436,436,Bengaluru,83,47,2026-05-12,Lad Group,Gloves 436,Sports,Gloves,2986,4149.9,247838,0.08,94.1,B
+229,229,Bengaluru,154,70,2026-05-01,Maharaj-Bhavsar,Phone 229,Electronics,Phone,1592,2467.9,245168,0.08,94.18,B
+25,25,Mumbai,100,58,2026-06-13,Hora LLC,Headphones 25,Electronics,Headphones,2418,4516.99,241800,0.08,94.25,B
+267,267,Mumbai,74,37,2026-05-05,Natarajan PLC,Laptop 267,Electronics,Laptop,3245,4913.14,240130,0.08,94.33,B
+277,277,Delhi,283,69,2026-05-05,"Mallick, Wali and Setty",Football 277,Sports,Football,844,1553.74,238852,0.08,94.41,B
+447,447,Delhi,90,59,2026-07-11,"Dutt, Karpe and Tandon",Gloves 447,Sports,Gloves,2635,5027.19,237150,0.07,94.48,B
+6,6,Bengaluru,346,69,2026-05-27,Purohit Ltd,Chair 6,Home,Chair,678,1340.0,234588,0.07,94.55,B
+463,463,Delhi,327,77,2026-05-17,"Kulkarni, Radhakrishnan and Virk",Lamp 463,Home,Lamp,697,1277.86,227919,0.07,94.63,B
+287,287,Hyderabad,350,76,2026-04-23,"Vohra, Mann and Manne",Cricket Bat 287,Sports,Cricket Bat,650,1064.69,227500,0.07,94.7,B
+205,205,Delhi,335,28,2026-06-13,"Nayar, Bera and Gole",Phone 205,Electronics,Phone,679,834.1,227465,0.07,94.77,B
+253,253,Hyderabad,134,54,2026-07-10,Kulkarni-Sem,Jeans 253,Clothing,Jeans,1687,2794.04,226058,0.07,94.84,B
+432,432,Hyderabad,314,68,2026-05-01,"Gupta, Anne and Singhal",Cricket Bat 432,Sports,Cricket Bat,707,941.71,221998,0.07,94.91,B
+371,371,Mumbai,218,57,2026-04-27,Bhat and Sons,Football 371,Sports,Football,1013,1441.42,220834,0.07,94.98,B
+446,446,Bengaluru,63,47,2026-05-23,"Talwar, Joshi and Sarma",Gloves 446,Sports,Gloves,3384,4866.85,213192,0.07,95.05,C
+19,19,Delhi,199,21,2026-07-06,Naidu Inc,Table 19,Home,Table,1065,1498.37,211935,0.07,95.12,C
+120,120,Bengaluru,329,25,2026-06-10,Ramaswamy LLC,Jacket 120,Clothing,Jacket,640,1011.26,210560,0.07,95.18,C
+295,295,Delhi,87,37,2026-06-17,Dhaliwal Inc,Fan 295,Home,Fan,2383,4107.97,207321,0.07,95.25,C
+118,118,Mumbai,95,78,2026-06-30,"Mital, Chandra and Thaker",Jacket 118,Clothing,Jacket,2181,3061.07,207195,0.07,95.31,C
+482,482,Hyderabad,72,31,2026-06-03,"Vasa, Doshi and Varkey",Shoes 482,Clothing,Shoes,2830,5339.58,203760,0.06,95.38,C
+131,131,Delhi,198,25,2026-06-02,"Bala, Manda and Sane",Phone 131,Electronics,Phone,1023,2033.99,202554,0.06,95.44,C
+336,336,Mumbai,97,79,2026-06-12,Pau LLC,Shirt 336,Clothing,Shirt,2073,2616.21,201081,0.06,95.5,C
+82,82,Delhi,50,37,2026-04-22,Gokhale Inc,Gloves 82,Sports,Gloves,4018,7052.23,200900,0.06,95.57,C
+338,338,Delhi,51,39,2026-06-19,"Khurana, Halder and Sandhu",Lamp 338,Home,Lamp,3924,7152.23,200124,0.06,95.63,C
+199,199,Bengaluru,78,49,2026-07-14,Tella-Palan,Lamp 199,Home,Lamp,2500,3454.01,195000,0.06,95.69,C
+319,319,Hyderabad,63,27,2026-07-07,Bhatnagar and Sons,Helmet 319,Sports,Helmet,3062,3822.46,192906,0.06,95.75,C
+344,344,Delhi,53,40,2026-05-23,Panchal Ltd,Football 344,Sports,Football,3629,4960.47,192337,0.06,95.81,C
+383,383,Mumbai,141,59,2026-07-13,Sinha-Rana,Lamp 383,Home,Lamp,1362,2198.92,192042,0.06,95.87,C
+368,368,Mumbai,98,39,2026-04-27,Joshi-Kothari,Table 368,Home,Table,1923,3699.76,188454,0.06,95.93,C
+230,230,Hyderabad,320,40,2026-04-24,"Chawla, Manda and Warrior",Lamp 230,Home,Lamp,587,709.37,187840,0.06,95.99,C
+291,291,Hyderabad,46,44,2026-06-26,Brar PLC,Jeans 291,Clothing,Jeans,4005,5326.69,184230,0.06,96.05,C
+479,479,Bengaluru,290,35,2026-06-15,"Viswanathan, Savant and Raju",Fan 479,Home,Fan,625,824.19,181250,0.06,96.11,C
+207,207,Hyderabad,113,35,2026-05-30,"Kala, Hegde and Memon",Cricket Bat 207,Sports,Cricket Bat,1600,2007.96,180800,0.06,96.17,C
+141,141,Hyderabad,298,24,2026-05-10,Kanda and Sons,Tablet 141,Electronics,Tablet,605,1169.96,180290,0.06,96.22,C
+343,343,Bengaluru,55,45,2026-05-13,"Koshy, Kala and Jhaveri",Fan 343,Home,Fan,3267,6354.17,179685,0.06,96.28,C
+411,411,Hyderabad,44,63,2026-06-20,Mittal-Pathak,Shirt 411,Clothing,Shirt,4077,7074.42,179388,0.06,96.34,C
+325,325,Mumbai,147,67,2026-07-20,Ramachandran and Sons,Shoes 325,Clothing,Shoes,1203,1861.13,176841,0.06,96.39,C
+394,394,Bengaluru,162,79,2026-07-20,"Chand, Chaudhuri and Nair",Gloves 394,Sports,Gloves,1089,1972.82,176418,0.06,96.45,C
+266,266,Bengaluru,84,78,2026-06-07,"Muni, Hegde and Dube",Helmet 266,Sports,Helmet,2090,2531.32,175560,0.06,96.5,C
+302,302,Hyderabad,145,47,2026-06-04,Jaggi-Gala,Shirt 302,Clothing,Shirt,1170,1875.12,169650,0.05,96.56,C
+296,296,Mumbai,265,40,2026-06-26,"Goda, Bir and Prashad",Shirt 296,Clothing,Shirt,640,983.79,169600,0.05,96.61,C
+104,104,Delhi,167,39,2026-06-03,"Sharaf, Mane and Thaker",Shirt 104,Clothing,Shirt,1012,1327.7,169004,0.05,96.66,C
+122,122,Delhi,33,65,2026-05-02,Parmer and Sons,Table 122,Home,Table,4980,6467.36,164340,0.05,96.72,C
+170,170,Hyderabad,133,70,2026-04-28,"Sahni, Ramaswamy and Radhakrishnan",Chair 170,Home,Chair,1230,1956.47,163590,0.05,96.77,C
+426,426,Bengaluru,234,79,2026-06-14,Kalla PLC,Shirt 426,Clothing,Shirt,682,1158.17,159588,0.05,96.82,C
+63,63,Delhi,173,30,2026-05-18,"Tella, Bora and Samra",Cricket Bat 63,Sports,Cricket Bat,919,1481.18,158987,0.05,96.87,C
+77,77,Hyderabad,45,69,2026-06-14,Memon-Chowdhury,Jeans 77,Clothing,Jeans,3530,5186.3,158850,0.05,96.92,C
+263,263,Delhi,180,44,2026-05-19,"Swaminathan, Pant and Dalal",Lamp 263,Home,Lamp,880,1105.1,158400,0.05,96.97,C
+107,107,Mumbai,75,25,2026-05-02,Jayaraman and Sons,Cricket Bat 107,Sports,Cricket Bat,2089,3617.31,156675,0.05,97.02,C
+488,488,Bengaluru,226,21,2026-05-03,Dora-Wason,Shirt 488,Clothing,Shirt,693,955.13,156618,0.05,97.07,C
+298,298,Mumbai,395,47,2026-04-22,Dutta LLC,Phone 298,Electronics,Phone,395,674.36,156025,0.05,97.12,C
+81,81,Mumbai,115,22,2026-07-13,Sarna Group,Phone 81,Electronics,Phone,1346,1931.9,154790,0.05,97.16,C
+101,101,Bengaluru,431,48,2026-05-27,"Mitter, Chatterjee and Wable",Chair 101,Home,Chair,357,621.41,153867,0.05,97.21,C
+331,331,Delhi,32,21,2026-05-28,Devi PLC,Chair 331,Home,Chair,4776,8339.65,152832,0.05,97.26,C
+326,326,Hyderabad,60,49,2026-05-05,"Bains, Vig and Patla",Laptop 326,Electronics,Laptop,2520,4976.81,151200,0.05,97.31,C
+70,70,Mumbai,67,37,2026-05-13,Sridhar Group,Fan 70,Home,Fan,2247,2987.3,150549,0.05,97.36,C
+350,350,Hyderabad,93,44,2026-06-29,Borde-De,Fan 350,Home,Fan,1588,2048.95,147684,0.05,97.4,C
+20,20,Bengaluru,144,46,2026-05-22,Sandal-Modi,Headphones 20,Electronics,Headphones,1021,1514.85,147024,0.05,97.45,C
+390,390,Mumbai,49,75,2026-06-19,Chandran Group,Cricket Bat 390,Sports,Cricket Bat,3000,4141.2,147000,0.05,97.5,C
+2,2,Hyderabad,66,73,2026-06-03,Andra-D’Alia,Shirt 2,Clothing,Shirt,2225,2839.24,146850,0.05,97.54,C
+438,438,Delhi,52,57,2026-06-29,Saran-Bali,Headphones 438,Electronics,Headphones,2793,4041.51,145236,0.05,97.59,C
+237,237,Hyderabad,433,49,2026-05-03,Raval-Balay,Lamp 237,Home,Lamp,329,635.22,142457,0.04,97.63,C
+431,431,Mumbai,357,42,2026-07-17,Narula PLC,Gloves 431,Sports,Gloves,397,656.29,141729,0.04,97.68,C
+252,252,Delhi,33,35,2026-06-23,Dora LLC,Shoes 252,Clothing,Shoes,4203,5941.55,138699,0.04,97.72,C
+416,416,Mumbai,42,39,2026-06-13,Date-Narayanan,Helmet 416,Sports,Helmet,3263,4080.73,137046,0.04,97.77,C
+191,191,Delhi,160,38,2026-07-11,Sankar Group,Chair 191,Home,Chair,849,1097.7,135840,0.04,97.81,C
+406,406,Hyderabad,238,78,2026-07-19,Dave-Mital,Fan 406,Home,Fan,568,852.92,135184,0.04,97.85,C
+192,192,Hyderabad,86,39,2026-05-17,Bhat and Sons,Chair 192,Home,Chair,1558,2921.36,133988,0.04,97.89,C
+396,396,Mumbai,119,24,2026-06-02,"Hora, Chakraborty and Bhatti",Headphones 396,Electronics,Headphones,1121,1485.07,133399,0.04,97.94,C
+124,124,Hyderabad,222,78,2026-05-22,Mani and Sons,Cricket Bat 124,Sports,Cricket Bat,599,865.47,132978,0.04,97.98,C
+175,175,Delhi,247,77,2026-06-28,Som-Rama,Headphones 175,Electronics,Headphones,537,992.88,132639,0.04,98.02,C
+182,182,Bengaluru,38,72,2026-05-05,Vora-Jhaveri,Jacket 182,Clothing,Jacket,3458,4910.66,131404,0.04,98.06,C
+427,427,Delhi,108,76,2026-04-29,Natarajan-Chandran,Football 427,Sports,Football,1213,2162.99,131004,0.04,98.1,C
+109,109,Delhi,186,71,2026-05-08,Master Inc,Cricket Bat 109,Sports,Cricket Bat,696,1335.06,129456,0.04,98.14,C
+318,318,Mumbai,27,32,2026-05-29,"Brar, Ramesh and Chawla",Shirt 318,Clothing,Shirt,4772,7681.56,128844,0.04,98.18,C
+417,417,Mumbai,274,61,2026-07-09,Goel-Dyal,Fan 417,Home,Fan,468,696.96,128232,0.04,98.22,C
+161,161,Bengaluru,41,33,2026-05-10,"Rana, Majumdar and Rajagopal",Football 161,Sports,Football,3082,3773.93,126362,0.04,98.26,C
+145,145,Bengaluru,322,36,2026-06-15,Mohanty-Chanda,Chair 145,Home,Chair,385,463.12,123970,0.04,98.3,C
+1,1,Bengaluru,148,64,2026-07-12,Bali-Keer,Shirt 1,Clothing,Shirt,829,1267.2,122692,0.04,98.34,C
+345,345,Delhi,158,72,2026-07-10,Parmar-Anand,Table 345,Home,Table,747,1002.22,118026,0.04,98.38,C
+89,89,Hyderabad,28,28,2026-07-19,Mitra Ltd,Gloves 89,Sports,Gloves,4151,8274.23,116228,0.04,98.42,C
+43,43,Bengaluru,45,68,2026-06-20,Lad-Mangat,Lamp 43,Home,Lamp,2574,4109.32,115830,0.04,98.45,C
+42,42,Delhi,413,34,2026-05-03,"Divan, Oza and Gola",Helmet 42,Sports,Helmet,279,537.91,115227,0.04,98.49,C
+242,242,Bengaluru,242,20,2026-06-11,Pai-Om,Shoes 242,Clothing,Shoes,473,759.25,114466,0.04,98.52,C
+235,235,Bengaluru,30,54,2026-06-28,Salvi-Radhakrishnan,Football 235,Sports,Football,3728,6573.76,111840,0.04,98.56,C
+285,285,Hyderabad,128,24,2026-05-21,Comar-Gandhi,Cricket Bat 285,Sports,Cricket Bat,871,1311.18,111488,0.04,98.6,C
+197,197,Delhi,499,68,2026-07-04,Madan-Pall,Helmet 197,Sports,Helmet,220,264.81,109780,0.03,98.63,C
+164,164,Hyderabad,383,28,2026-06-19,Borra Ltd,Jeans 164,Clothing,Jeans,282,551.2,108006,0.03,98.66,C
+67,67,Mumbai,223,23,2026-06-17,Parsa-Dey,Table 67,Home,Table,484,694.37,107932,0.03,98.7,C
+375,375,Delhi,346,57,2026-06-03,Tata LLC,Laptop 375,Electronics,Laptop,307,594.54,106222,0.03,98.73,C
+346,346,Mumbai,361,41,2026-06-21,Jhaveri Ltd,Lamp 346,Home,Lamp,281,457.58,101441,0.03,98.76,C
+231,231,Bengaluru,129,42,2026-05-20,Kunda-Konda,Football 231,Sports,Football,746,1085.88,96234,0.03,98.79,C
+226,226,Hyderabad,324,69,2026-05-12,"Swaminathan, Viswanathan and Subramaniam",Jeans 226,Clothing,Jeans,294,448.32,95256,0.03,98.82,C
+224,224,Mumbai,372,36,2026-06-08,Pai Group,Football 224,Sports,Football,256,336.35,95232,0.03,98.85,C
+288,288,Hyderabad,22,57,2026-05-21,Loyal Ltd,Cricket Bat 288,Sports,Cricket Bat,4265,8218.19,93830,0.03,98.88,C
+181,181,Delhi,150,65,2026-05-06,Nayar-Atwal,Laptop 181,Electronics,Laptop,619,1055.82,92850,0.03,98.91,C
+71,71,Delhi,26,46,2026-06-08,Mangat-Mohanty,Lamp 71,Home,Lamp,3570,6754.95,92820,0.03,98.94,C
+275,275,Delhi,126,38,2026-07-10,Patla LLC,Table 275,Home,Table,736,1033.84,92736,0.03,98.97,C
+493,493,Mumbai,363,30,2026-04-30,Pal and Sons,Shirt 493,Clothing,Shirt,253,364.57,91839,0.03,99.0,C
+221,221,Mumbai,199,56,2026-07-16,Mitter Group,Chair 221,Home,Chair,448,714.43,89152,0.03,99.03,C
+297,297,Bengaluru,475,64,2026-04-23,"Suresh, Raman and Tripathi",Table 297,Home,Table,183,318.15,86925,0.03,99.06,C
+140,140,Mumbai,52,77,2026-07-10,"Yadav, Chaudry and Sunder",Tablet 140,Electronics,Tablet,1651,2473.42,85852,0.03,99.08,C
+401,401,Mumbai,66,38,2026-05-16,Maharaj-Karnik,Table 401,Home,Table,1289,1763.17,85074,0.03,99.11,C
+166,166,Bengaluru,372,55,2026-06-25,Sane PLC,Shoes 166,Clothing,Shoes,220,317.28,81840,0.03,99.14,C
+329,329,Bengaluru,18,42,2026-06-08,Guha-Oommen,Laptop 329,Electronics,Laptop,4472,7995.76,80496,0.03,99.16,C
+449,449,Mumbai,213,25,2026-05-29,Dash Group,Fan 449,Home,Fan,376,528.49,80088,0.03,99.19,C
+258,258,Mumbai,390,20,2026-07-14,Bahri-Bandi,Jacket 258,Clothing,Jacket,190,239.08,74100,0.02,99.21,C
+409,409,Mumbai,71,36,2026-05-25,"Mand, Saha and Toor",Shirt 409,Clothing,Shirt,1039,1688.64,73769,0.02,99.23,C
+303,303,Delhi,150,60,2026-07-13,"Sarin, Loyal and Chand",Helmet 303,Sports,Helmet,485,739.98,72750,0.02,99.26,C
+208,208,Mumbai,23,24,2026-06-01,"Thaker, Kade and Kapadia",Table 208,Home,Table,3048,4725.25,70104,0.02,99.28,C
+469,469,Bengaluru,60,34,2026-05-11,"Dutt, Bobal and Suri",Fan 469,Home,Fan,1151,1938.69,69060,0.02,99.3,C
+450,450,Hyderabad,238,80,2026-05-05,"Chad, Chand and Choudhury",Chair 450,Home,Chair,288,439.31,68544,0.02,99.32,C
+188,188,Hyderabad,56,75,2026-05-27,Gour Group,Shirt 188,Clothing,Shirt,1216,2425.86,68096,0.02,99.34,C
+388,388,Delhi,41,48,2026-05-15,Konda-Saha,Cricket Bat 388,Sports,Cricket Bat,1657,3172.98,67937,0.02,99.36,C
+136,136,Bengaluru,285,64,2026-07-18,Wali-Prakash,Shirt 136,Clothing,Shirt,233,291.35,66405,0.02,99.39,C
+384,384,Bengaluru,206,43,2026-06-15,Ramesh PLC,Cricket Bat 384,Sports,Cricket Bat,319,536.16,65714,0.02,99.41,C
+115,115,Bengaluru,333,70,2026-05-02,Bhandari-Rattan,Jacket 115,Clothing,Jacket,196,240.81,65268,0.02,99.43,C
+143,143,Delhi,16,76,2026-05-09,Chowdhury PLC,Laptop 143,Electronics,Laptop,4053,5759.68,64848,0.02,99.45,C
+148,148,Delhi,89,25,2026-05-09,Vala and Sons,Gloves 148,Sports,Gloves,710,1040.24,63190,0.02,99.47,C
+75,75,Delhi,53,38,2026-07-09,"Mitra, Kanda and Chopra",Headphones 75,Electronics,Headphones,1171,1632.39,62063,0.02,99.49,C
+281,281,Bengaluru,459,76,2026-07-19,"Natt, Iyer and Sanghvi",Headphones 281,Electronics,Headphones,135,236.13,61965,0.02,99.51,C
+373,373,Bengaluru,204,73,2026-05-19,Sane-Krishna,Football 373,Sports,Football,301,584.56,61404,0.02,99.53,C
+339,339,Mumbai,14,40,2026-06-14,Nagy-Rajagopal,Helmet 339,Sports,Helmet,4190,6136.93,58660,0.02,99.54,C
+480,480,Bengaluru,171,33,2026-04-30,"Krishna, Bali and Doctor",Shirt 480,Clothing,Shirt,324,425.46,55404,0.02,99.56,C
+282,282,Hyderabad,57,80,2026-06-19,"Anand, Aurora and Tella",Headphones 282,Electronics,Headphones,971,1765.51,55347,0.02,99.58,C
+311,311,Mumbai,163,41,2026-06-07,Varughese-Chanda,Shirt 311,Clothing,Shirt,338,476.9,55094,0.02,99.6,C
+386,386,Mumbai,29,37,2026-05-08,"Dube, Wable and Raman",Lamp 386,Home,Lamp,1846,3558.42,53534,0.02,99.61,C
+451,451,Hyderabad,28,29,2026-05-24,"Sampath, Sundaram and Mishra",Lamp 451,Home,Lamp,1907,3005.83,53396,0.02,99.63,C
+11,11,Hyderabad,23,78,2026-06-02,Varghese LLC,Laptop 11,Electronics,Laptop,2225,3631.37,51175,0.02,99.65,C
+116,116,Bengaluru,15,57,2026-04-26,"Arya, Vohra and Upadhyay",Laptop 116,Electronics,Laptop,3346,5194.44,50190,0.02,99.66,C
+472,472,Delhi,42,74,2026-05-31,"Deo, Chander and Kibe",Headphones 472,Electronics,Headphones,1157,1445.05,48594,0.02,99.68,C
+65,65,Delhi,298,32,2026-05-14,Barad and Sons,Gloves 65,Sports,Gloves,162,200.77,48276,0.02,99.69,C
+60,60,Delhi,13,60,2026-06-16,Babu Ltd,Football 60,Sports,Football,3560,6216.52,46280,0.01,99.71,C
+484,484,Mumbai,381,77,2026-05-20,"Krish, Sunder and Palla",Fan 484,Home,Fan,118,194.03,44958,0.01,99.72,C
+456,456,Bengaluru,271,75,2026-07-06,Bir Group,Fan 456,Home,Fan,165,221.66,44715,0.01,99.74,C
+56,56,Hyderabad,86,28,2026-05-27,Chopra-Narula,Lamp 56,Home,Lamp,503,648.12,43258,0.01,99.75,C
+412,412,Bengaluru,39,56,2026-07-14,"Bath, Patla and Kulkarni",Jacket 412,Clothing,Jacket,1099,1893.09,42861,0.01,99.76,C
+481,481,Bengaluru,34,80,2026-06-29,Yadav LLC,Chair 481,Home,Chair,1217,2218.63,41378,0.01,99.78,C
+151,151,Bengaluru,13,42,2026-05-07,Kannan LLC,Headphones 151,Electronics,Headphones,3138,4516.44,40794,0.01,99.79,C
+413,413,Bengaluru,193,30,2026-07-06,Mand PLC,Table 413,Home,Table,211,403.18,40723,0.01,99.8,C
+4,4,Mumbai,38,55,2026-07-09,"Dewan, Chand and Rajagopalan",Cricket Bat 4,Sports,Cricket Bat,1017,1288.34,38646,0.01,99.81,C
+320,320,Mumbai,15,43,2026-06-04,Goel-Kota,Lamp 320,Home,Lamp,2561,4417.27,38415,0.01,99.83,C
+495,495,Mumbai,103,80,2026-05-15,Basak Group,Football 495,Sports,Football,367,602.52,37801,0.01,99.84,C
+44,44,Mumbai,38,22,2026-06-01,Choudhury-Thakur,Chair 44,Home,Chair,897,1384.19,34086,0.01,99.85,C
+420,420,Bengaluru,46,51,2026-06-21,Vala-Nazareth,Chair 420,Home,Chair,734,1213.29,33764,0.01,99.86,C
+46,46,Delhi,53,27,2026-06-19,Bala LLC,Gloves 46,Sports,Gloves,617,972.41,32701,0.01,99.87,C
+57,57,Delhi,54,65,2026-05-12,"Chacko, Tank and Grewal",Jeans 57,Clothing,Jeans,579,1086.12,31266,0.01,99.88,C
+243,243,Hyderabad,45,65,2026-07-03,Rajagopalan-Solanki,Chair 243,Home,Chair,689,1125.97,31005,0.01,99.89,C
+28,28,Hyderabad,47,30,2026-05-26,Bala Inc,Table 28,Home,Table,630,979.75,29610,0.01,99.9,C
+268,268,Hyderabad,189,30,2026-05-18,Din Inc,Jeans 268,Clothing,Jeans,153,218.07,28917,0.01,99.91,C
+376,376,Mumbai,24,25,2026-07-01,Modi-Sane,Cricket Bat 376,Sports,Cricket Bat,1148,1437.95,27552,0.01,99.92,C
+385,385,Bengaluru,13,38,2026-06-16,"Pandit, Padmanabhan and Hans",Shoes 385,Clothing,Shoes,2116,3121.47,27508,0.01,99.93,C
+393,393,Hyderabad,53,43,2026-07-12,"Jain, Nori and Yadav",Headphones 393,Electronics,Headphones,473,761.13,25069,0.01,99.93,C
+497,497,Mumbai,18,43,2026-06-04,Vaidya-Minhas,Football 497,Sports,Football,1353,2582.74,24354,0.01,99.94,C
+440,440,Hyderabad,16,80,2026-05-09,Tata and Sons,Shirt 440,Clothing,Shirt,1398,1812.98,22368,0.01,99.95,C
+29,29,Hyderabad,23,57,2026-06-10,Andra Ltd,Jacket 29,Clothing,Jacket,937,1413.7,21551,0.01,99.96,C
+238,238,Delhi,107,47,2026-06-05,Oommen Inc,Laptop 238,Electronics,Laptop,179,355.5,19153,0.01,99.96,C
+10,10,Bengaluru,93,46,2026-05-05,"Balan, Shankar and Hegde",Fan 10,Home,Fan,194,316.47,18042,0.01,99.97,C
+255,255,Bengaluru,67,73,2026-05-12,"Dutt, Mittal and Warrior",Table 255,Home,Table,268,322.2,17956,0.01,99.97,C
+314,314,Bengaluru,83,59,2026-06-01,Kapur-Oommen,Gloves 314,Sports,Gloves,214,342.59,17762,0.01,99.98,C
+477,477,Bengaluru,42,29,2026-05-03,Salvi-Hegde,Jeans 477,Clothing,Jeans,405,565.2,17010,0.01,99.98,C
+27,27,Hyderabad,33,54,2026-07-11,Contractor Inc,Fan 27,Home,Fan,309,436.47,10197,0.0,99.99,C
+91,91,Mumbai,42,48,2026-05-27,Kala-Patla,Fan 91,Home,Fan,211,410.35,8862,0.0,99.99,C
+334,334,Mumbai,13,55,2026-05-06,"Mital, Pingle and Srinivasan",Jacket 334,Clothing,Jacket,571,851.78,7423,0.0,99.99,C
+135,135,Delhi,32,53,2026-05-05,Datta-Bhasin,Laptop 135,Electronics,Laptop,222,299.28,7104,0.0,99.99,C
+87,87,Mumbai,10,29,2026-05-11,Warrior-Jain,Fan 87,Home,Fan,591,712.09,5910,0.0,100.0,C
+441,441,Delhi,17,29,2026-06-22,"Oommen, Shroff and Wason",Tablet 441,Electronics,Tablet,292,531.35,4964,0.0,100.0,C
+180,180,Mumbai,44,59,2026-06-08,"Patla, Setty and Mitra",Fan 180,Home,Fan,100,176.82,4400,0.0,100.0,C
+304,304,Mumbai,29,77,2026-07-12,Patla Group,Cricket Bat 304,Sports,Cricket Bat,123,214.73,3567,0.0,100.0,C
