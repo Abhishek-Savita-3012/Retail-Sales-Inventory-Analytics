@@ -1,14 +1,21 @@
-# 🛍️ Retail Sales & Inventory Analytics Dashboard
+# 🛒 Retail Sales & Inventory Analytics Dashboard
 
-> An end-to-end Retail Sales & Inventory Analytics project built using **SQL, Python, and Power BI** to analyze retail business performance, customer behavior, inventory optimization, and sales forecasting.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  <img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Excel-Data%20Processing-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+Retail Sales & Inventory Analytics Dashboard built using
+<b>SQL</b>, <b>Python</b>, <b>Power BI</b>, and <b>Excel</b>.
+
+</p>
 
 ## 📌 Project Overview
 
-This project demonstrates the complete data analytics workflow, starting from data generation and cleaning to exploratory data analysis, customer segmentation, inventory analysis, sales forecasting, and interactive dashboard creation.
-
-The dashboard enables stakeholders to monitor business performance through executive KPIs, customer insights, inventory optimization metrics, and future sales forecasts.
+This project presents an end-to-end Retail Sales & Inventory Analytics solution built using SQL, Python, and Power BI. It analyzes over 100,000 retail transactions to uncover sales trends, customer behavior, inventory performance, and future sales forecasts through interactive dashboards and data-driven insights.
 
 ---
 
